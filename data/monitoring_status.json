@@ -1,0 +1,2493 @@
+{
+    "date": "2021/03/21 17:17",
+    "data": [
+        {
+            "date": "2020-05-12",
+            "hospitalized_number": 77.9,
+            "severe_bed_occupancy_rate": 7.9,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.14,
+            "positive_rate": 2.1
+        },
+        {
+            "date": "2020-05-13",
+            "hospitalized_number": 74.9,
+            "severe_bed_occupancy_rate": 7.9,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.14,
+            "positive_rate": 2.1
+        },
+        {
+            "date": "2020-05-14",
+            "hospitalized_number": 70.6,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 1,
+            "untracked_patients_number": 0.14,
+            "positive_rate": 2.6
+        },
+        {
+            "date": "2020-05-15",
+            "hospitalized_number": 66.6,
+            "severe_bed_occupancy_rate": 9.3,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.14,
+            "positive_rate": 2.7
+        },
+        {
+            "date": "2020-05-16",
+            "hospitalized_number": 62.9,
+            "severe_bed_occupancy_rate": 10,
+            "patients_number": 0.5,
+            "untracked_patients_number": 0.14,
+            "positive_rate": 2.2
+        },
+        {
+            "date": "2020-05-17",
+            "hospitalized_number": 59.3,
+            "severe_bed_occupancy_rate": 10,
+            "patients_number": 0.5,
+            "untracked_patients_number": 0.14,
+            "positive_rate": 2.1
+        },
+        {
+            "date": "2020-05-18",
+            "hospitalized_number": 55,
+            "severe_bed_occupancy_rate": 9.3,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.14,
+            "positive_rate": 3.4
+        },
+        {
+            "date": "2020-05-19",
+            "hospitalized_number": 51,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0,
+            "positive_rate": 3
+        },
+        {
+            "date": "2020-05-20",
+            "hospitalized_number": 47.6,
+            "severe_bed_occupancy_rate": 7.1,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0,
+            "positive_rate": 3
+        },
+        {
+            "date": "2020-05-21",
+            "hospitalized_number": 44.9,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0,
+            "positive_rate": 1.7
+        },
+        {
+            "date": "2020-05-22",
+            "hospitalized_number": 42.4,
+            "severe_bed_occupancy_rate": 4.3,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0,
+            "positive_rate": 1.8
+        },
+        {
+            "date": "2020-05-23",
+            "hospitalized_number": 39.9,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0,
+            "positive_rate": 1.4
+        },
+        {
+            "date": "2020-05-24",
+            "hospitalized_number": 35.6,
+            "severe_bed_occupancy_rate": 1.4,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0,
+            "positive_rate": 1.5
+        },
+        {
+            "date": "2020-05-25",
+            "hospitalized_number": 32.6,
+            "severe_bed_occupancy_rate": 0.7,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-05-26",
+            "hospitalized_number": 29.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-05-27",
+            "hospitalized_number": 26.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-05-28",
+            "hospitalized_number": 22.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-05-29",
+            "hospitalized_number": 19.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-05-30",
+            "hospitalized_number": 16.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-05-31",
+            "hospitalized_number": 15.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-01",
+            "hospitalized_number": 14.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-02",
+            "hospitalized_number": 12.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-03",
+            "hospitalized_number": 11.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-04",
+            "hospitalized_number": 11.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-05",
+            "hospitalized_number": 10.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-06",
+            "hospitalized_number": 9.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-07",
+            "hospitalized_number": 8.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-08",
+            "hospitalized_number": 7.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-09",
+            "hospitalized_number": 6.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-10",
+            "hospitalized_number": 5.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-11",
+            "hospitalized_number": 5,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-12",
+            "hospitalized_number": 4.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-13",
+            "hospitalized_number": 4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-14",
+            "hospitalized_number": 3.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-15",
+            "hospitalized_number": 3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-16",
+            "hospitalized_number": 2.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-17",
+            "hospitalized_number": 2.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-18",
+            "hospitalized_number": 1.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-19",
+            "hospitalized_number": 1.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-20",
+            "hospitalized_number": 1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-21",
+            "hospitalized_number": 0.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-22",
+            "hospitalized_number": 0.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-23",
+            "hospitalized_number": 0.1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-24",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-25",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-26",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-27",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-28",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-29",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-06-30",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-07-01",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-07-02",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1
+        },
+        {
+            "date": "2020-07-03",
+            "hospitalized_number": 0.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1
+        },
+        {
+            "date": "2020-07-04",
+            "hospitalized_number": 0.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.7
+        },
+        {
+            "date": "2020-07-05",
+            "hospitalized_number": 0.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.7
+        },
+        {
+            "date": "2020-07-06",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.7
+        },
+        {
+            "date": "2020-07-07",
+            "hospitalized_number": 1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2020-07-08",
+            "hospitalized_number": 1.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2020-07-09",
+            "hospitalized_number": 1.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1
+        },
+        {
+            "date": "2020-07-10",
+            "hospitalized_number": 1.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.8
+        },
+        {
+            "date": "2020-07-11",
+            "hospitalized_number": 2.1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2020-07-12",
+            "hospitalized_number": 2.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2020-07-13",
+            "hospitalized_number": 2.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2020-07-14",
+            "hospitalized_number": 2.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.5
+        },
+        {
+            "date": "2020-07-15",
+            "hospitalized_number": 2.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.5
+        },
+        {
+            "date": "2020-07-16",
+            "hospitalized_number": 2.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-07-17",
+            "hospitalized_number": 2.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-07-18",
+            "hospitalized_number": 2.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-07-19",
+            "hospitalized_number": 2.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-07-20",
+            "hospitalized_number": 2.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.5
+        },
+        {
+            "date": "2020-07-21",
+            "hospitalized_number": 2.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.7
+        },
+        {
+            "date": "2020-07-22",
+            "hospitalized_number": 3.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.5,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 1.8
+        },
+        {
+            "date": "2020-07-23",
+            "hospitalized_number": 3.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0.7,
+            "positive_rate": 2.4
+        },
+        {
+            "date": "2020-07-24",
+            "hospitalized_number": 4.1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0.7,
+            "positive_rate": 3
+        },
+        {
+            "date": "2020-07-25",
+            "hospitalized_number": 4.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.5,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 2.6
+        },
+        {
+            "date": "2020-07-26",
+            "hospitalized_number": 4.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.5,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 2.5
+        },
+        {
+            "date": "2020-07-27",
+            "hospitalized_number": 4.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 2.8
+        },
+        {
+            "date": "2020-07-28",
+            "hospitalized_number": 4.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.4
+        },
+        {
+            "date": "2020-07-29",
+            "hospitalized_number": 4.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.2
+        },
+        {
+            "date": "2020-07-30",
+            "hospitalized_number": 4.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.8
+        },
+        {
+            "date": "2020-07-31",
+            "hospitalized_number": 5.1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 2
+        },
+        {
+            "date": "2020-08-01",
+            "hospitalized_number": 6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.1,
+            "untracked_patients_number": 0.7,
+            "positive_rate": 2.8
+        },
+        {
+            "date": "2020-08-02",
+            "hospitalized_number": 7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.2,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 3
+        },
+        {
+            "date": "2020-08-03",
+            "hospitalized_number": 8.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.9,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 4.7
+        },
+        {
+            "date": "2020-08-04",
+            "hospitalized_number": 10,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.5,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 5.8
+        },
+        {
+            "date": "2020-08-05",
+            "hospitalized_number": 13.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 3.4,
+            "untracked_patients_number": 2.2,
+            "positive_rate": 8.7
+        },
+        {
+            "date": "2020-08-06",
+            "hospitalized_number": 16.9,
+            "severe_bed_occupancy_rate": 0.7,
+            "patients_number": 3.8,
+            "untracked_patients_number": 2.1,
+            "positive_rate": 8.9
+        },
+        {
+            "date": "2020-08-07",
+            "hospitalized_number": 21.4,
+            "severe_bed_occupancy_rate": 0.8,
+            "patients_number": 4.4,
+            "untracked_patients_number": 2.1,
+            "positive_rate": 9.6
+        },
+        {
+            "date": "2020-08-08",
+            "hospitalized_number": 26.3,
+            "severe_bed_occupancy_rate": 1.2,
+            "patients_number": 5.4,
+            "untracked_patients_number": 2.5,
+            "positive_rate": 10.1
+        },
+        {
+            "date": "2020-08-09",
+            "hospitalized_number": 31.3,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 5.6,
+            "untracked_patients_number": 2.3,
+            "positive_rate": 9.4
+        },
+        {
+            "date": "2020-08-10",
+            "hospitalized_number": 35.6,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 5.5,
+            "untracked_patients_number": 2.1,
+            "positive_rate": 9
+        },
+        {
+            "date": "2020-08-11",
+            "hospitalized_number": 39,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 5.4,
+            "untracked_patients_number": 2.2,
+            "positive_rate": 7
+        },
+        {
+            "date": "2020-08-12",
+            "hospitalized_number": 41.3,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 4.9,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 5.8
+        },
+        {
+            "date": "2020-08-13",
+            "hospitalized_number": 42.4,
+            "severe_bed_occupancy_rate": 1.2,
+            "patients_number": 4.8,
+            "untracked_patients_number": 1,
+            "positive_rate": 5.7
+        },
+        {
+            "date": "2020-08-14",
+            "hospitalized_number": 42.6,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 4.5,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 5.7
+        },
+        {
+            "date": "2020-08-15",
+            "hospitalized_number": 41.9,
+            "severe_bed_occupancy_rate": 2,
+            "patients_number": 3.4,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 4.9
+        },
+        {
+            "date": "2020-08-16",
+            "hospitalized_number": 40.9,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 3.2,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 5
+        },
+        {
+            "date": "2020-08-17",
+            "hospitalized_number": 40.3,
+            "severe_bed_occupancy_rate": 4.1,
+            "patients_number": 3.6,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 5.7
+        },
+        {
+            "date": "2020-08-18",
+            "hospitalized_number": 40.1,
+            "severe_bed_occupancy_rate": 5.3,
+            "patients_number": 4.1,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 8.1
+        },
+        {
+            "date": "2020-08-19",
+            "hospitalized_number": 42.3,
+            "severe_bed_occupancy_rate": 6.5,
+            "patients_number": 4.4,
+            "untracked_patients_number": 1.5,
+            "positive_rate": 10.1
+        },
+        {
+            "date": "2020-08-20",
+            "hospitalized_number": 43.9,
+            "severe_bed_occupancy_rate": 7.8,
+            "patients_number": 4.5,
+            "untracked_patients_number": 1.7,
+            "positive_rate": 9.7
+        },
+        {
+            "date": "2020-08-21",
+            "hospitalized_number": 45.1,
+            "severe_bed_occupancy_rate": 7.8,
+            "patients_number": 4.3,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 9.1
+        },
+        {
+            "date": "2020-08-22",
+            "hospitalized_number": 46.3,
+            "severe_bed_occupancy_rate": 8.2,
+            "patients_number": 4.4,
+            "untracked_patients_number": 1.5,
+            "positive_rate": 9.6
+        },
+        {
+            "date": "2020-08-23",
+            "hospitalized_number": 47.7,
+            "severe_bed_occupancy_rate": 8.2,
+            "patients_number": 4.5,
+            "untracked_patients_number": 1.7,
+            "positive_rate": 9.7
+        },
+        {
+            "date": "2020-08-24",
+            "hospitalized_number": 48.4,
+            "severe_bed_occupancy_rate": 8.2,
+            "patients_number": 3.6,
+            "untracked_patients_number": 1.5,
+            "positive_rate": 8
+        },
+        {
+            "date": "2020-08-25",
+            "hospitalized_number": 47.7,
+            "severe_bed_occupancy_rate": 7.8,
+            "patients_number": 3.9,
+            "untracked_patients_number": 2.1,
+            "positive_rate": 6.4
+        },
+        {
+            "date": "2020-08-26",
+            "hospitalized_number": 47.3,
+            "severe_bed_occupancy_rate": 7.3,
+            "patients_number": 4.8,
+            "untracked_patients_number": 2.6,
+            "positive_rate": 7.8
+        },
+        {
+            "date": "2020-08-27",
+            "hospitalized_number": 46.9,
+            "severe_bed_occupancy_rate": 6.9,
+            "patients_number": 4.7,
+            "untracked_patients_number": 2.2,
+            "positive_rate": 8.5
+        },
+        {
+            "date": "2020-08-28",
+            "hospitalized_number": 47,
+            "severe_bed_occupancy_rate": 6.9,
+            "patients_number": 5.2,
+            "untracked_patients_number": 2.5,
+            "positive_rate": 7.9
+        },
+        {
+            "date": "2020-08-29",
+            "hospitalized_number": 47.3,
+            "severe_bed_occupancy_rate": 6.1,
+            "patients_number": 5.9,
+            "untracked_patients_number": 2.2,
+            "positive_rate": 8.2
+        },
+        {
+            "date": "2020-08-30",
+            "hospitalized_number": 47.4,
+            "severe_bed_occupancy_rate": 5.3,
+            "patients_number": 6.1,
+            "untracked_patients_number": 1.9,
+            "positive_rate": 8.2
+        },
+        {
+            "date": "2020-08-31",
+            "hospitalized_number": 48.1,
+            "severe_bed_occupancy_rate": 4.1,
+            "patients_number": 6.3,
+            "untracked_patients_number": 2.1,
+            "positive_rate": 8.1
+        },
+        {
+            "date": "2020-09-01",
+            "hospitalized_number": 48.9,
+            "severe_bed_occupancy_rate": 3.3,
+            "patients_number": 5.9,
+            "untracked_patients_number": 1.7,
+            "positive_rate": 5.6
+        },
+        {
+            "date": "2020-09-02",
+            "hospitalized_number": 48,
+            "severe_bed_occupancy_rate": 2.4,
+            "patients_number": 4.5,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 4.9
+        },
+        {
+            "date": "2020-09-03",
+            "hospitalized_number": 46.1,
+            "severe_bed_occupancy_rate": 2,
+            "patients_number": 4.4,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 5.2
+        },
+        {
+            "date": "2020-09-04",
+            "hospitalized_number": 44,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 3.9,
+            "untracked_patients_number": 0.7,
+            "positive_rate": 6
+        },
+        {
+            "date": "2020-09-05",
+            "hospitalized_number": 41.1,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 2.8,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 4.8
+        },
+        {
+            "date": "2020-09-06",
+            "hospitalized_number": 37.6,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 2.3,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 4.8
+        },
+        {
+            "date": "2020-09-07",
+            "hospitalized_number": 34.1,
+            "severe_bed_occupancy_rate": 2,
+            "patients_number": 1.9,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 2.5
+        },
+        {
+            "date": "2020-09-08",
+            "hospitalized_number": 29.9,
+            "severe_bed_occupancy_rate": 2.4,
+            "patients_number": 1.9,
+            "untracked_patients_number": 1,
+            "positive_rate": 3
+        },
+        {
+            "date": "2020-09-09",
+            "hospitalized_number": 27,
+            "severe_bed_occupancy_rate": 2.4,
+            "patients_number": 1.4,
+            "untracked_patients_number": 0.7,
+            "positive_rate": 2.9
+        },
+        {
+            "date": "2020-09-10",
+            "hospitalized_number": 24.1,
+            "severe_bed_occupancy_rate": 2,
+            "patients_number": 1.1,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.6
+        },
+        {
+            "date": "2020-09-11",
+            "hospitalized_number": 21.7,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.4
+        },
+        {
+            "date": "2020-09-12",
+            "hospitalized_number": 19.7,
+            "severe_bed_occupancy_rate": 1.2,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.7
+        },
+        {
+            "date": "2020-09-13",
+            "hospitalized_number": 18,
+            "severe_bed_occupancy_rate": 0.8,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.5
+        },
+        {
+            "date": "2020-09-14",
+            "hospitalized_number": 16.9,
+            "severe_bed_occupancy_rate": 0.4,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1
+        },
+        {
+            "date": "2020-09-15",
+            "hospitalized_number": 15.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.5
+        },
+        {
+            "date": "2020-09-16",
+            "hospitalized_number": 14,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.2
+        },
+        {
+            "date": "2020-09-17",
+            "hospitalized_number": 13,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.3
+        },
+        {
+            "date": "2020-09-18",
+            "hospitalized_number": 11.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-09-19",
+            "hospitalized_number": 10,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-09-20",
+            "hospitalized_number": 8.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.7
+        },
+        {
+            "date": "2020-09-21",
+            "hospitalized_number": 7.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.9
+        },
+        {
+            "date": "2020-09-22",
+            "hospitalized_number": 6.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2020-09-23",
+            "hospitalized_number": 5.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.4
+        },
+        {
+            "date": "2020-09-24",
+            "hospitalized_number": 5.1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.9
+        },
+        {
+            "date": "2020-09-25",
+            "hospitalized_number": 5.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 2.5
+        },
+        {
+            "date": "2020-09-26",
+            "hospitalized_number": 5.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 2.5
+        },
+        {
+            "date": "2020-09-27",
+            "hospitalized_number": 5.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 2.7
+        },
+        {
+            "date": "2020-09-28",
+            "hospitalized_number": 5.3,
+            "severe_bed_occupancy_rate": 0.4,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.2
+        },
+        {
+            "date": "2020-09-29",
+            "hospitalized_number": 5.7,
+            "severe_bed_occupancy_rate": 0.8,
+            "patients_number": 1,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.9
+        },
+        {
+            "date": "2020-09-30",
+            "hospitalized_number": 6.4,
+            "severe_bed_occupancy_rate": 1.2,
+            "patients_number": 1.2,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 2.6
+        },
+        {
+            "date": "2020-10-01",
+            "hospitalized_number": 7.3,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 1.5,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 2.3
+        },
+        {
+            "date": "2020-10-02",
+            "hospitalized_number": 7.9,
+            "severe_bed_occupancy_rate": 2,
+            "patients_number": 1.4,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 2.2
+        },
+        {
+            "date": "2020-10-03",
+            "hospitalized_number": 8.7,
+            "severe_bed_occupancy_rate": 2.4,
+            "patients_number": 1.4,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 2.3
+        },
+        {
+            "date": "2020-10-04",
+            "hospitalized_number": 9.6,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 1.4,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 2.1
+        },
+        {
+            "date": "2020-10-05",
+            "hospitalized_number": 10.3,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 1.2,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 2.1
+        },
+        {
+            "date": "2020-10-06",
+            "hospitalized_number": 10.4,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1
+        },
+        {
+            "date": "2020-10-07",
+            "hospitalized_number": 10.3,
+            "severe_bed_occupancy_rate": 2.4,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-10-08",
+            "hospitalized_number": 9.7,
+            "severe_bed_occupancy_rate": 2,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.2
+        },
+        {
+            "date": "2020-10-09",
+            "hospitalized_number": 9.1,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-10",
+            "hospitalized_number": 8.6,
+            "severe_bed_occupancy_rate": 1.2,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-11",
+            "hospitalized_number": 7.6,
+            "severe_bed_occupancy_rate": 0.8,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-12",
+            "hospitalized_number": 6.6,
+            "severe_bed_occupancy_rate": 0.4,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-13",
+            "hospitalized_number": 5.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-14",
+            "hospitalized_number": 4.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-15",
+            "hospitalized_number": 3.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-16",
+            "hospitalized_number": 2.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-17",
+            "hospitalized_number": 1.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-18",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-19",
+            "hospitalized_number": 0.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-20",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-21",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-22",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-23",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-24",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-25",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-26",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-27",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-28",
+            "hospitalized_number": 0,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2020-10-29",
+            "hospitalized_number": 0.1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-10-30",
+            "hospitalized_number": 0.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.7
+        },
+        {
+            "date": "2020-10-31",
+            "hospitalized_number": 0.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.8
+        },
+        {
+            "date": "2020-11-01",
+            "hospitalized_number": 0.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.8
+        },
+        {
+            "date": "2020-11-02",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-11-03",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-11-04",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.5
+        },
+        {
+            "date": "2020-11-05",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.3
+        },
+        {
+            "date": "2020-11-06",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.3
+        },
+        {
+            "date": "2020-11-07",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.3
+        },
+        {
+            "date": "2020-11-08",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.3
+        },
+        {
+            "date": "2020-11-09",
+            "hospitalized_number": 0.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.2
+        },
+        {
+            "date": "2020-11-10",
+            "hospitalized_number": 1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 0.4
+        },
+        {
+            "date": "2020-11-11",
+            "hospitalized_number": 1.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 0.4
+        },
+        {
+            "date": "2020-11-12",
+            "hospitalized_number": 1.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.2
+        },
+        {
+            "date": "2020-11-13",
+            "hospitalized_number": 1.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.3
+        },
+        {
+            "date": "2020-11-14",
+            "hospitalized_number": 1.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1
+        },
+        {
+            "date": "2020-11-15",
+            "hospitalized_number": 2,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.6,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.4
+        },
+        {
+            "date": "2020-11-16",
+            "hospitalized_number": 2.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.5
+        },
+        {
+            "date": "2020-11-17",
+            "hospitalized_number": 2.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 0.7,
+            "untracked_patients_number": 0,
+            "positive_rate": 1.9
+        },
+        {
+            "date": "2020-11-18",
+            "hospitalized_number": 3.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.4,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 2.3
+        },
+        {
+            "date": "2020-11-19",
+            "hospitalized_number": 5.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.8,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 2.7
+        },
+        {
+            "date": "2020-11-20",
+            "hospitalized_number": 7.1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.2,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 3.6
+        },
+        {
+            "date": "2020-11-21",
+            "hospitalized_number": 8.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.1,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 4
+        },
+        {
+            "date": "2020-11-22",
+            "hospitalized_number": 10.1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.3,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 4.8
+        },
+        {
+            "date": "2020-11-23",
+            "hospitalized_number": 11.7,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.3,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 4
+        },
+        {
+            "date": "2020-11-24",
+            "hospitalized_number": 13.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.3,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 3.3
+        },
+        {
+            "date": "2020-11-25",
+            "hospitalized_number": 13.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.1,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 2.4
+        },
+        {
+            "date": "2020-11-26",
+            "hospitalized_number": 14.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.1,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 2.2
+        },
+        {
+            "date": "2020-11-27",
+            "hospitalized_number": 15.4,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.2,
+            "untracked_patients_number": 1.4,
+            "positive_rate": 2.2
+        },
+        {
+            "date": "2020-11-28",
+            "hospitalized_number": 16.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 2.2,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 2.6
+        },
+        {
+            "date": "2020-11-29",
+            "hospitalized_number": 16.9,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.9,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 2.3
+        },
+        {
+            "date": "2020-11-30",
+            "hospitalized_number": 17,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.8,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 2.1
+        },
+        {
+            "date": "2020-12-01",
+            "hospitalized_number": 17.1,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.8,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 2.1
+        },
+        {
+            "date": "2020-12-02",
+            "hospitalized_number": 17.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.5,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 2
+        },
+        {
+            "date": "2020-12-03",
+            "hospitalized_number": 17.6,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 1.1,
+            "untracked_patients_number": 0.7,
+            "positive_rate": 1.5
+        },
+        {
+            "date": "2020-12-04",
+            "hospitalized_number": 17,
+            "severe_bed_occupancy_rate": 0.8,
+            "patients_number": 0.6,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.8
+        },
+        {
+            "date": "2020-12-05",
+            "hospitalized_number": 16.4,
+            "severe_bed_occupancy_rate": 1.6,
+            "patients_number": 0.6,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 0.9
+        },
+        {
+            "date": "2020-12-06",
+            "hospitalized_number": 15.6,
+            "severe_bed_occupancy_rate": 2.4,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 0.7
+        },
+        {
+            "date": "2020-12-07",
+            "hospitalized_number": 14.1,
+            "severe_bed_occupancy_rate": 3.3,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-12-08",
+            "hospitalized_number": 12.6,
+            "severe_bed_occupancy_rate": 4.1,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.4
+        },
+        {
+            "date": "2020-12-09",
+            "hospitalized_number": 11,
+            "severe_bed_occupancy_rate": 4.5,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.2
+        },
+        {
+            "date": "2020-12-10",
+            "hospitalized_number": 9.7,
+            "severe_bed_occupancy_rate": 4.9,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2020-12-11",
+            "hospitalized_number": 9.3,
+            "severe_bed_occupancy_rate": 4.5,
+            "patients_number": 1.2,
+            "untracked_patients_number": 1,
+            "positive_rate": 1.9
+        },
+        {
+            "date": "2020-12-12",
+            "hospitalized_number": 9.3,
+            "severe_bed_occupancy_rate": 4.1,
+            "patients_number": 1.5,
+            "untracked_patients_number": 1,
+            "positive_rate": 2.8
+        },
+        {
+            "date": "2020-12-13",
+            "hospitalized_number": 9.9,
+            "severe_bed_occupancy_rate": 3.7,
+            "patients_number": 1.7,
+            "untracked_patients_number": 1,
+            "positive_rate": 2.4
+        },
+        {
+            "date": "2020-12-14",
+            "hospitalized_number": 11.1,
+            "severe_bed_occupancy_rate": 3.3,
+            "patients_number": 1.8,
+            "untracked_patients_number": 1,
+            "positive_rate": 1.9
+        },
+        {
+            "date": "2020-12-15",
+            "hospitalized_number": 12.4,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 2.1,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 2.2
+        },
+        {
+            "date": "2020-12-16",
+            "hospitalized_number": 14.3,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 2.5,
+            "untracked_patients_number": 1.5,
+            "positive_rate": 2.7
+        },
+        {
+            "date": "2020-12-17",
+            "hospitalized_number": 16.1,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 2.6,
+            "untracked_patients_number": 1.4,
+            "positive_rate": 2.8
+        },
+        {
+            "date": "2020-12-18",
+            "hospitalized_number": 17.6,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 2.6,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 2.4
+        },
+        {
+            "date": "2020-12-19",
+            "hospitalized_number": 18.7,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 2.6,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 2.7
+        },
+        {
+            "date": "2020-12-20",
+            "hospitalized_number": 19.9,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 2.8,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 3.5
+        },
+        {
+            "date": "2020-12-21",
+            "hospitalized_number": 22.3,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 3.9,
+            "untracked_patients_number": 1.5,
+            "positive_rate": 3.3
+        },
+        {
+            "date": "2020-12-22",
+            "hospitalized_number": 24.1,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 4.1,
+            "untracked_patients_number": 1.7,
+            "positive_rate": 3.6
+        },
+        {
+            "date": "2020-12-23",
+            "hospitalized_number": 25.1,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 4,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 2.9
+        },
+        {
+            "date": "2020-12-24",
+            "hospitalized_number": 27.7,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 5.7,
+            "untracked_patients_number": 1.4,
+            "positive_rate": 3.6
+        },
+        {
+            "date": "2020-12-25",
+            "hospitalized_number": 30,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 6.8,
+            "untracked_patients_number": 1.4,
+            "positive_rate": 4
+        },
+        {
+            "date": "2020-12-26",
+            "hospitalized_number": 31.9,
+            "severe_bed_occupancy_rate": 2.9,
+            "patients_number": 6.8,
+            "untracked_patients_number": 1.2,
+            "positive_rate": 4.7
+        },
+        {
+            "date": "2020-12-27",
+            "hospitalized_number": 33.9,
+            "severe_bed_occupancy_rate": 3.3,
+            "patients_number": 6.6,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 4.7
+        },
+        {
+            "date": "2020-12-28",
+            "hospitalized_number": 34.3,
+            "severe_bed_occupancy_rate": 3.7,
+            "patients_number": 6.1,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 3.3
+        },
+        {
+            "date": "2020-12-29",
+            "hospitalized_number": 34.4,
+            "severe_bed_occupancy_rate": 4.1,
+            "patients_number": 5.8,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 3.5
+        },
+        {
+            "date": "2020-12-30",
+            "hospitalized_number": 35,
+            "severe_bed_occupancy_rate": 4.5,
+            "patients_number": 5.7,
+            "untracked_patients_number": 1.4,
+            "positive_rate": 4
+        },
+        {
+            "date": "2020-12-31",
+            "hospitalized_number": 34.3,
+            "severe_bed_occupancy_rate": 4.9,
+            "patients_number": 3.6,
+            "untracked_patients_number": 1.8,
+            "positive_rate": 3.3
+        },
+        {
+            "date": "2021-01-01",
+            "hospitalized_number": 33.4,
+            "severe_bed_occupancy_rate": 5.3,
+            "patients_number": 4,
+            "untracked_patients_number": 2.3,
+            "positive_rate": 5.5
+        },
+        {
+            "date": "2021-01-02",
+            "hospitalized_number": 33.1,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 4.3,
+            "untracked_patients_number": 2.6,
+            "positive_rate": 13.2
+        },
+        {
+            "date": "2021-01-03",
+            "hospitalized_number": 33,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 4.7,
+            "untracked_patients_number": 3,
+            "positive_rate": 17.7
+        },
+        {
+            "date": "2021-01-04",
+            "hospitalized_number": 34.3,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 5.1,
+            "untracked_patients_number": 3.2,
+            "positive_rate": 8.3
+        },
+        {
+            "date": "2021-01-05",
+            "hospitalized_number": 38,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 6.6,
+            "untracked_patients_number": 3.6,
+            "positive_rate": 10.4
+        },
+        {
+            "date": "2021-01-06",
+            "hospitalized_number": 45,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 11.3,
+            "untracked_patients_number": 5.8,
+            "positive_rate": 11.7
+        },
+        {
+            "date": "2021-01-07",
+            "hospitalized_number": 51,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 13.1,
+            "untracked_patients_number": 5.5,
+            "positive_rate": 11.2
+        },
+        {
+            "date": "2021-01-08",
+            "hospitalized_number": 57.1,
+            "severe_bed_occupancy_rate": 6.1,
+            "patients_number": 16.7,
+            "untracked_patients_number": 6.2,
+            "positive_rate": 11.3
+        },
+        {
+            "date": "2021-01-09",
+            "hospitalized_number": 62.6,
+            "severe_bed_occupancy_rate": 6.5,
+            "patients_number": 18.9,
+            "untracked_patients_number": 6.5,
+            "positive_rate": 13
+        },
+        {
+            "date": "2021-01-10",
+            "hospitalized_number": 68.6,
+            "severe_bed_occupancy_rate": 6.9,
+            "patients_number": 19.3,
+            "untracked_patients_number": 6.1,
+            "positive_rate": 12.3
+        },
+        {
+            "date": "2021-01-11",
+            "hospitalized_number": 74.6,
+            "severe_bed_occupancy_rate": 7.3,
+            "patients_number": 19.3,
+            "untracked_patients_number": 6.1,
+            "positive_rate": 13.8
+        },
+        {
+            "date": "2021-01-12",
+            "hospitalized_number": 78.9,
+            "severe_bed_occupancy_rate": 7.3,
+            "patients_number": 18.6,
+            "untracked_patients_number": 5.5,
+            "positive_rate": 14.2
+        },
+        {
+            "date": "2021-01-13",
+            "hospitalized_number": 79.3,
+            "severe_bed_occupancy_rate": 7.8,
+            "patients_number": 15,
+            "untracked_patients_number": 4.4,
+            "positive_rate": 6.8
+        },
+        {
+            "date": "2021-01-14",
+            "hospitalized_number": 80.3,
+            "severe_bed_occupancy_rate": 8.2,
+            "patients_number": 14.5,
+            "untracked_patients_number": 4.4,
+            "positive_rate": 5.7
+        },
+        {
+            "date": "2021-01-15",
+            "hospitalized_number": 81.9,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 13.1,
+            "untracked_patients_number": 4.1,
+            "positive_rate": 5.4
+        },
+        {
+            "date": "2021-01-16",
+            "hospitalized_number": 82.4,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 12.1,
+            "untracked_patients_number": 3.9,
+            "positive_rate": 5.8
+        },
+        {
+            "date": "2021-01-17",
+            "hospitalized_number": 82.3,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 11.3,
+            "untracked_patients_number": 3.7,
+            "positive_rate": 6.1
+        },
+        {
+            "date": "2021-01-18",
+            "hospitalized_number": 81.4,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 10.9,
+            "untracked_patients_number": 3.2,
+            "positive_rate": 5.3
+        },
+        {
+            "date": "2021-01-19",
+            "hospitalized_number": 80,
+            "severe_bed_occupancy_rate": 9.4,
+            "patients_number": 9.5,
+            "untracked_patients_number": 2.8,
+            "positive_rate": 5.4
+        },
+        {
+            "date": "2021-01-20",
+            "hospitalized_number": 78.4,
+            "severe_bed_occupancy_rate": 9.4,
+            "patients_number": 9.4,
+            "untracked_patients_number": 3.2,
+            "positive_rate": 7.1
+        },
+        {
+            "date": "2021-01-21",
+            "hospitalized_number": 76.4,
+            "severe_bed_occupancy_rate": 9.4,
+            "patients_number": 8.4,
+            "untracked_patients_number": 2.8,
+            "positive_rate": 6.9
+        },
+        {
+            "date": "2021-01-22",
+            "hospitalized_number": 73.7,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 7.7,
+            "untracked_patients_number": 2.5,
+            "positive_rate": 6.5
+        },
+        {
+            "date": "2021-01-23",
+            "hospitalized_number": 71.7,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 6.2,
+            "untracked_patients_number": 2.1,
+            "positive_rate": 5.3
+        },
+        {
+            "date": "2021-01-24",
+            "hospitalized_number": 69.6,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 6.2,
+            "untracked_patients_number": 1.9,
+            "positive_rate": 5.7
+        },
+        {
+            "date": "2021-01-25",
+            "hospitalized_number": 66.9,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 5.1,
+            "untracked_patients_number": 1.9,
+            "positive_rate": 4.5
+        },
+        {
+            "date": "2021-01-26",
+            "hospitalized_number": 63.6,
+            "severe_bed_occupancy_rate": 9.4,
+            "patients_number": 4.4,
+            "untracked_patients_number": 1.7,
+            "positive_rate": 3.9
+        },
+        {
+            "date": "2021-01-27",
+            "hospitalized_number": 60.6,
+            "severe_bed_occupancy_rate": 9.4,
+            "patients_number": 4.1,
+            "untracked_patients_number": 1.7,
+            "positive_rate": 3.4
+        },
+        {
+            "date": "2021-01-28",
+            "hospitalized_number": 57.6,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 4.1,
+            "untracked_patients_number": 1.7,
+            "positive_rate": 2.7
+        },
+        {
+            "date": "2021-01-29",
+            "hospitalized_number": 54.4,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 4.1,
+            "untracked_patients_number": 1.7,
+            "positive_rate": 3
+        },
+        {
+            "date": "2021-01-30",
+            "hospitalized_number": 51.6,
+            "severe_bed_occupancy_rate": 8.2,
+            "patients_number": 3.7,
+            "untracked_patients_number": 1.7,
+            "positive_rate": 2.7
+        },
+        {
+            "date": "2021-01-31",
+            "hospitalized_number": 48.6,
+            "severe_bed_occupancy_rate": 7.8,
+            "patients_number": 3.4,
+            "untracked_patients_number": 1.8,
+            "positive_rate": 2.5
+        },
+        {
+            "date": "2021-02-01",
+            "hospitalized_number": 45.6,
+            "severe_bed_occupancy_rate": 6.9,
+            "patients_number": 3.4,
+            "untracked_patients_number": 1.8,
+            "positive_rate": 2.5
+        },
+        {
+            "date": "2021-02-02",
+            "hospitalized_number": 43.3,
+            "severe_bed_occupancy_rate": 6.1,
+            "patients_number": 3.6,
+            "untracked_patients_number": 1.8,
+            "positive_rate": 2.7
+        },
+        {
+            "date": "2021-02-03",
+            "hospitalized_number": 40,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 2.5,
+            "untracked_patients_number": 1,
+            "positive_rate": 1.8
+        },
+        {
+            "date": "2021-02-04",
+            "hospitalized_number": 37.1,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 2.1,
+            "untracked_patients_number": 1,
+            "positive_rate": 1.6
+        },
+        {
+            "date": "2021-02-05",
+            "hospitalized_number": 34.1,
+            "severe_bed_occupancy_rate": 5.3,
+            "patients_number": 1.5,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 1.2
+        },
+        {
+            "date": "2021-02-06",
+            "hospitalized_number": 30.7,
+            "severe_bed_occupancy_rate": 4.9,
+            "patients_number": 1.5,
+            "untracked_patients_number": 0.8,
+            "positive_rate": 1.3
+        },
+        {
+            "date": "2021-02-07",
+            "hospitalized_number": 27.4,
+            "severe_bed_occupancy_rate": 4.9,
+            "patients_number": 1.2,
+            "untracked_patients_number": 0.7,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2021-02-08",
+            "hospitalized_number": 24.7,
+            "severe_bed_occupancy_rate": 5.3,
+            "patients_number": 1.1,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.2
+        },
+        {
+            "date": "2021-02-09",
+            "hospitalized_number": 22,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 1,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1
+        },
+        {
+            "date": "2021-02-10",
+            "hospitalized_number": 20.9,
+            "severe_bed_occupancy_rate": 6.1,
+            "patients_number": 1.2,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.3
+        },
+        {
+            "date": "2021-02-11",
+            "hospitalized_number": 19.7,
+            "severe_bed_occupancy_rate": 6.5,
+            "patients_number": 1,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.2
+        },
+        {
+            "date": "2021-02-12",
+            "hospitalized_number": 19,
+            "severe_bed_occupancy_rate": 7.3,
+            "patients_number": 1,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2021-02-13",
+            "hospitalized_number": 18.7,
+            "severe_bed_occupancy_rate": 8.2,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1
+        },
+        {
+            "date": "2021-02-14",
+            "hospitalized_number": 18.4,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 1,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2021-02-15",
+            "hospitalized_number": 18.6,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 1.2,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 1.5
+        },
+        {
+            "date": "2021-02-16",
+            "hospitalized_number": 19.3,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 1.5,
+            "untracked_patients_number": 0.6,
+            "positive_rate": 1.6
+        },
+        {
+            "date": "2021-02-17",
+            "hospitalized_number": 19.6,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 1.4,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.5
+        },
+        {
+            "date": "2021-02-18",
+            "hospitalized_number": 19.3,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 1.5,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.5
+        },
+        {
+            "date": "2021-02-19",
+            "hospitalized_number": 19.1,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 2.1,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.9
+        },
+        {
+            "date": "2021-02-20",
+            "hospitalized_number": 19.1,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 2.1,
+            "untracked_patients_number": 0.4,
+            "positive_rate": 1.9
+        },
+        {
+            "date": "2021-02-21",
+            "hospitalized_number": 19.3,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 2.1,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 2
+        },
+        {
+            "date": "2021-02-22",
+            "hospitalized_number": 19.1,
+            "severe_bed_occupancy_rate": 9,
+            "patients_number": 1.7,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.8
+        },
+        {
+            "date": "2021-02-23",
+            "hospitalized_number": 18.9,
+            "severe_bed_occupancy_rate": 8.6,
+            "patients_number": 1.4,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.8
+        },
+        {
+            "date": "2021-02-24",
+            "hospitalized_number": 18.7,
+            "severe_bed_occupancy_rate": 7.8,
+            "patients_number": 1.4,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.7
+        },
+        {
+            "date": "2021-02-25",
+            "hospitalized_number": 18.7,
+            "severe_bed_occupancy_rate": 7.3,
+            "patients_number": 1.1,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.4
+        },
+        {
+            "date": "2021-02-26",
+            "hospitalized_number": 18.1,
+            "severe_bed_occupancy_rate": 6.5,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.5
+        },
+        {
+            "date": "2021-02-27",
+            "hospitalized_number": 17.7,
+            "severe_bed_occupancy_rate": 5.7,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.5
+        },
+        {
+            "date": "2021-02-28",
+            "hospitalized_number": 16.9,
+            "severe_bed_occupancy_rate": 4.9,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.4
+        },
+        {
+            "date": "2021-03-01",
+            "hospitalized_number": 15.6,
+            "severe_bed_occupancy_rate": 4.1,
+            "patients_number": 0.1,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.2
+        },
+        {
+            "date": "2021-03-02",
+            "hospitalized_number": 13.9,
+            "severe_bed_occupancy_rate": 3.7,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2021-03-03",
+            "hospitalized_number": 12.1,
+            "severe_bed_occupancy_rate": 3.2,
+            "patients_number": 0,
+            "untracked_patients_number": 0,
+            "positive_rate": 0
+        },
+        {
+            "date": "2021-03-04",
+            "hospitalized_number": 11,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.4
+        },
+        {
+            "date": "2021-03-05",
+            "hospitalized_number": 10,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.4
+        },
+        {
+            "date": "2021-03-06",
+            "hospitalized_number": 9.1,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2021-03-07",
+            "hospitalized_number": 8.7,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 0.6,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.8
+        },
+        {
+            "date": "2021-03-08",
+            "hospitalized_number": 8.6,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 0.6,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2021-03-09",
+            "hospitalized_number": 8.7,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 0.6,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.7
+        },
+        {
+            "date": "2021-03-10",
+            "hospitalized_number": 9,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 0.6,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.8
+        },
+        {
+            "date": "2021-03-11",
+            "hospitalized_number": 8.7,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 0.3,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.4
+        },
+        {
+            "date": "2021-03-12",
+            "hospitalized_number": 8.7,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 0.5
+        },
+        {
+            "date": "2021-03-13",
+            "hospitalized_number": 8.9,
+            "severe_bed_occupancy_rate": 3.2,
+            "patients_number": 0.6,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 0.7
+        },
+        {
+            "date": "2021-03-14",
+            "hospitalized_number": 8.7,
+            "severe_bed_occupancy_rate": 3.6,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2021-03-15",
+            "hospitalized_number": 8.6,
+            "severe_bed_occupancy_rate": 4,
+            "patients_number": 0.4,
+            "untracked_patients_number": 0.1,
+            "positive_rate": 0.6
+        },
+        {
+            "date": "2021-03-16",
+            "hospitalized_number": 8.3,
+            "severe_bed_occupancy_rate": 4.4,
+            "patients_number": 0.6,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 0.7
+        },
+        {
+            "date": "2021-03-17",
+            "hospitalized_number": 8.1,
+            "severe_bed_occupancy_rate": 4.8,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 1.1
+        },
+        {
+            "date": "2021-03-18",
+            "hospitalized_number": 8.3,
+            "severe_bed_occupancy_rate": 5.2,
+            "patients_number": 0.8,
+            "untracked_patients_number": 0.3,
+            "positive_rate": 0.9
+        }
+    ]
+}

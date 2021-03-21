@@ -1,0 +1,44 @@
+name: update from twitter and docomo
+
+on: [ workflow_dispatch ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
+          pip install --user --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twint
+      - name: Clone covid19 for each branches
+        run: |
+          for branch in development staging master; do
+            git clone --depth 1 -b ${branch} https://terachan0117:${{ secrets.GITHUB_TOKEN }}@github.com/terachan0117/covid19-toyama ${branch}
+          done
+      - name: Batch
+        env:
+          TZ: Asia/Tokyo
+        run: |
+          cd development/tool
+          python update_from_docomo.py
+          python update_from_twitter.py
+          cd ../..
+      - name: Copy data to each branches
+        run: |
+          for branch in staging master; do
+            cp development/data/* ${branch}/data
+          done
+      - name: Commit and push
+        run: |
+          git config --global user.email "bot@example.com"
+          git config --global user.name "Data Updator"
+          for branch in development staging master; do
+            cd ${GITHUB_WORKSPACE}/${branch} && git add . && git status -s | [[ -z `cat` ]] || git commit -m "update data" && git push origin ${branch}
+          done

@@ -1,0 +1,18 @@
+{
+    "date": "2021/03/21 17:17",
+    "data": {
+        "place": {
+            "display": {
+                "@ja": "富山駅",
+                "@en": "Toyama Sta."
+            }
+        },
+        "date": "2021-03-21",
+        "data": [
+            {
+                "reference_date": "2021-03-20",
+                "increase_rate": 1.8
+            }
+        ]
+    }
+}
