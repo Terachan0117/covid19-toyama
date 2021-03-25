@@ -22,7 +22,7 @@
         <div>
           <app-link
             :class="$style.button"
-            to="http://www.pref.toyama.jp/cms_sec/1205/kj00021798.html"
+            to="https://www.pref.toyama.jp/1205/kurashi/kenkou/kenkou/covid-19/kj00021798.html"
           >
             {{ $t('県内の患者等発生状況') }}
           </app-link>

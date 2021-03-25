@@ -208,7 +208,7 @@ export default Vue.extend({
           svg: 'CovidIcon',
           title: this.$t('新型コロナウイルス感染症が心配なときに.nav'),
           link:
-            'http://www.pref.toyama.jp/cms_sec/1205/kj00021473.html',
+            'https://www.pref.toyama.jp/1205/kurashi/soudanshisetsu/madoguchi/kenkouiryou/kj00021473.html',
         },
         /*
         {
@@ -222,7 +222,7 @@ export default Vue.extend({
           svg: 'MaskTrashIcon',
           title: this.$t('ご家庭でのマスク等の捨て方'),
           link:
-            'http://www.pref.toyama.jp/cms_sec/1705/kj00021782.html',
+            'https://www.pref.toyama.jp/1705/kurashi/kankyoushizen/haikibutsu/kj00021782.html',
           divider: true,
         },
         /*
@@ -246,7 +246,7 @@ export default Vue.extend({
         {
           title: this.$t('富山県新型コロナウイルス感染症対策本部会議'),
           link:
-            'http://www.pref.toyama.jp/cms_sec/1205/kj00021555.html',
+            'https://www.pref.toyama.jp/1205/kurashi/kenkou/iryou/kj00021555.html',
         },
         {
           title: this.$t('富山県 新型コロナウイルス感染症 支援情報ナビ'),
@@ -299,7 +299,7 @@ export default Vue.extend({
         },
         {
           title: this.$t('富山県公式ホームページ'),
-          link: 'http://www.pref.toyama.jp/',
+          link: 'https://www.pref.toyama.jp/',
         },
       ]
     },
