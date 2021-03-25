@@ -49,7 +49,7 @@
             <td class="bureau importantContact">
             </td>
             <td class="tel">
-              <a href="http://www.pref.toyama.jp/cms_sec/1018/kj00021433.html" target="_blank" rel="noopener noreferrer" class="importantContact">{{ $t('新型コロナウイルス感染症に関する相談窓口・各種情報等') }} ({{ $t('富山県公式ホームページ') }})</a>
+              <a href="https://www.pref.toyama.jp/1018/bousaianzen/saigai/kj00021433.html" target="_blank" rel="noopener noreferrer" class="importantContact">{{ $t('新型コロナウイルス感染症に関する相談窓口・各種情報等') }} ({{ $t('富山県公式ホームページ') }})</a>
             </td>
           </tr>
           <tr>
@@ -71,7 +71,7 @@
               {{ $t('その他') }}
             </td>
             <td class="bureau"></td>
-            <td class="tel"><a href="http://www.pref.toyama.jp/sections/1118/virus/soudan.html" target="_blank" rel="noopener noreferrer">{{ $t('相談窓口一覧') }} ({{ $t('富山県公式ホームページ') }})</a></td>
+            <td class="tel"><a href="https://www.pref.toyama.jp/1118/kurashi/kenkou/iryou/virus/soudan.html" target="_blank" rel="noopener noreferrer">{{ $t('相談窓口一覧') }} ({{ $t('富山県公式ホームページ') }})</a></td>
           </tr>
         </tbody>
       </table>
