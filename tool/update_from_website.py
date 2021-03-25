@@ -10,7 +10,7 @@ import json
 dt_now = datetime.datetime.now().strftime("%Y/%m/%d %H:%M")
 
 # 最新の情報を取得
-url = "http://www.pref.toyama.jp/cms_sec/1205/kj00022038.html"
+url = "https://www.pref.toyama.jp/1205/kurashi/kenkou/kenkou/covid-19/kj00022038.html"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
 }
@@ -19,10 +19,9 @@ r.raise_for_status()
 soup = BeautifulSoup(r.content, "html.parser")
 
 # 一覧エクセルを取得
-file_list = soup.find("div", id="file")
-link = file_list.find(
-    "a", text="強化・緩和の判断指標（直近１週間平均）の推移").get("href")
-df = pd.read_excel(link, header=None, index_col=None, engine="openpyxl")
+file_list = soup.find("div", id="tmp_contents")
+link = file_list.find("a").get("href")
+df = pd.read_excel('https://www.pref.toyama.jp' + link, header=None, index_col=None, engine="openpyxl")
 
 # データ部分のみ取り出し
 df = df.iloc[2:9, 3:]
@@ -74,7 +73,7 @@ with open('../data/monitoring_status.json', 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 # 最新の情報を取得
-url = "http://www.pref.toyama.jp/cms_sec/1205/kj00021798.html"
+url = "https://www.pref.toyama.jp/1205/kurashi/kenkou/kenkou/covid-19/kj00021798.html"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
 }
@@ -83,7 +82,7 @@ r.raise_for_status()
 soup = BeautifulSoup(r.content, "html.parser")
 
 # 検査陽性者の状況
-summary = soup.find("div", id="main").get_text(strip=True)
+summary = soup.find("div", id="tmp_contents").get_text(strip=True)
 # 陽性患者数
 total = int(mojimoji.zen_to_han(re.search(r"(\d+?)人", summary).group(1)))
 # 入院中・入院等調整中
@@ -133,10 +132,9 @@ with open('../data/patients_summary.json', 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 # 一覧エクセルを取得
-file_list = soup.find("div", id="file")
-link = file_list.find(
-    "a", text="富山県内における新型コロナウイルス感染症の発生状況一覧（Excelファイル）").get("href")
-df = pd.read_excel(link, skiprows=2, engine="openpyxl")
+file_list = soup.find("div", id="tmp_contents")
+link = file_list.find("a").get("href")
+df = pd.read_excel('https://www.pref.toyama.jp' + link, skiprows=2, engine="openpyxl")
 
 # エクセル内データを定義書準拠形式に変換
 df.rename(columns={"県番号": "No"}, inplace=True)
