@@ -26,6 +26,7 @@ try:
                 pass
             elif i == 1:
                 text = row[10]
+                new = int(re.search(r"新たに(\d+?)名", text).group(1))
                 total = int(re.search(r"感染者数：(\d+?)名", text).group(1))
                 hospitalized = int(re.search(r"入院中又は入院等調整中 (\d+?)人", text).group(1))
                 lodging = int(re.search(r"宿泊療養施設入所者数 (\d+?)人", text).group(1))
@@ -34,7 +35,6 @@ try:
                 # 検査陽性者の状況
                 with open('../data/patients_summary.json', 'r', encoding='utf-8') as file:
                     data = json.load(file)
-                    new = total - data["value"]
                     data["date"] = dt_now
                     data["value"] = total
                     data["children"][0]["value"] = hospitalized
