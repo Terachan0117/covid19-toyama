@@ -10,7 +10,7 @@ import json
 dt_now = datetime.datetime.now().strftime("%Y/%m/%d %H:%M")
 
 # 最新の情報を取得
-url = "https://www.pref.toyama.jp/1205/kurashi/kenkou/kenkou/covid-19/kj00022038.html"
+url = "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00022038.html"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
 }
@@ -73,7 +73,7 @@ with open('../data/monitoring_status.json', 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 # 最新の情報を取得
-url = "https://www.pref.toyama.jp/1205/kurashi/kenkou/kenkou/covid-19/kj00021798.html"
+url = "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00021798.html"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
 }
