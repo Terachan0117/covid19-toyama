@@ -98,6 +98,20 @@ lodging = int(mojimoji.zen_to_han(re.search(r"宿泊療養施設入所者数(.+?
 death = int(mojimoji.zen_to_han(re.search(r"死亡(.+?)人", summary).group(1)))
 # 退院
 discharged = int(mojimoji.zen_to_han(re.search(r"退院等(.+?)人", summary).group(1)))
+
+# 公表日別による新規陽性者数の推移
+with open('../data/patients_summary.json', 'r', encoding='utf-8') as file:
+    data = json.load(file)
+    old_patients = data.value
+    with open('../data/patients_number.json', 'r', encoding='utf-8') as file:
+        data = json.load(file)
+        data["date"] = dt_now
+        new_patients = total - old_patients
+        data["data"].append({"日付": datetime.datetime.now().strftime("%Y-%m-%d"), "小計": new_patients})
+        with open('../data/patients_number.json', 'w', encoding='utf-8') as file:
+            json.dump(data, file, ensure_ascii=False, indent=4)
+
+# 検査陽性者の状況
 with open('../data/patients_summary.json', 'w', encoding='utf-8') as file:
     data = {
         "date": dt_now,
