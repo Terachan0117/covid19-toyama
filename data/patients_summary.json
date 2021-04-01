@@ -1,15 +1,15 @@
 {
-    "date": "2021/03/31 18:02",
+    "date": "2021/04/01 17:35",
     "attr": "陽性者数",
-    "value": 938,
+    "value": 939,
     "children": [
         {
             "attr": "入院",
-            "value": 21,
+            "value": 22,
             "children": [
                 {
                     "attr": "軽症・中等症",
-                    "value": 23
+                    "value": 22
                 },
                 {
                     "attr": "重症",
