@@ -29,13 +29,13 @@
               {{ $t('新型コロナウイルス感染症の予防・検査・医療に関すること') }}
             </td>
             <td class="bureau importantContact">
-              {{ $t('富山県 厚生部 健康課 新型コロナウイルス対策班') }}
+              {{ $t('受診・相談センター') }}
             </td>
             <td class="tel">
-              <a href="tel:076-444-2176" class="importantContact">076-444-2176</a
+              <a href="tel:076-444-4691" class="importantContact">076-444-4691</a
               ><br />
               <p class="caution">
-                {{ $t('午前8時30分から午後17時15分（土日祝：午前10時から午後4時）') }}
+                {{ $t('24時間対応') }}
               </p>
               <p class="caution">
                 {{ $t('電話のおかけ間違いが多くなっております。発信の際は今一度電話番号をお確かめの上、お間違えのないようお願いいたします。') }}
@@ -63,15 +63,15 @@
             <td class="content" v-bind="headingAttrs">
               {{ $t('オープンデータに関すること') }}
             </td>
-            <td class="bureau">{{ $t('富山県 経営管理部 情報政策課 IT推進係') }}</td>
-            <td class="tel"><a href="tel:076-444-3116">076-444-3116</a></td>
+            <td class="bureau">{{ $t('富山県 知事政策局 デジタル化推進室 行政デジタル化・生産性向上課') }}</td>
+            <td class="tel"><a href="tel:076-444-9659">076-444-9659</a></td>
           </tr>
           <tr>
             <td class="content" v-bind="headingAttrs">
               {{ $t('その他') }}
             </td>
             <td class="bureau"></td>
-            <td class="tel"><a href="https://www.pref.toyama.jp/1118/kurashi/kenkou/iryou/virus/soudan.html" target="_blank" rel="noopener noreferrer">{{ $t('相談窓口一覧') }} ({{ $t('富山県公式ホームページ') }})</a></td>
+            <td class="tel"><a href="https://www.pref.toyama.jp/1021/kurashi/kenkou/iryou/virus/soudan.html" target="_blank" rel="noopener noreferrer">{{ $t('相談窓口一覧') }} ({{ $t('富山県公式ホームページ') }})</a></td>
           </tr>
         </tbody>
       </table>

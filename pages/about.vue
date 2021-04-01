@@ -209,7 +209,7 @@
         <i18n path="詳しくは、{githubRepo}をご確認ください。">
           <template v-slot:githubRepo>
             <app-link
-              to="https://github.com/Terachan0117/covid19-toyama/tree/development/data"
+              to="https://github.com/terachan0117/covid19-toyama/tree/development/data"
               :icon-size="16"
             >
               {{ $t('GitHub リポジトリ') }}
@@ -229,7 +229,7 @@
         <i18n path="詳しくは、{githubRepo}をご確認ください。">
           <template v-slot:githubRepo>
             <app-link
-              to="https://github.com/Terachan0117/covid19-toyama"
+              to="https://github.com/terachan0117/covid19-toyama"
               :icon-size="16"
             >
               {{ $t('GitHub リポジトリ') }}

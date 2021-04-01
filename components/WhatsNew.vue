@@ -11,7 +11,7 @@
         <lazy-link-to-information-about-emergency-measure v-if="isEmergency" />
         <app-link
           class="WhatsNew-linkButton"
-          to="https://www.pref.toyama.jp/1205/kurashi/kenkou/kenkou/covid-19/vaccine.html"
+          to="https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/vaccine.html"
         >
           <VaccineIcon class="WhatsNew-linkButton-icon" aria-hidden="true" />
           {{ $t('ワクチン情報') }}
