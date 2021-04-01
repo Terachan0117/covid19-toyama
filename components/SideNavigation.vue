@@ -93,7 +93,7 @@
           </app-link>
           -->
           <app-link
-            to="https://github.com/Terachan0117/covid19-toyama"
+            to="https://github.com/terachan0117/covid19-toyama"
             :show-icon="false"
             class="SideNavigation-SocialLink"
           >
@@ -208,7 +208,7 @@ export default Vue.extend({
           svg: 'CovidIcon',
           title: this.$t('新型コロナウイルス感染症が心配なときに.nav'),
           link:
-            'https://www.pref.toyama.jp/1205/kurashi/soudanshisetsu/madoguchi/kenkouiryou/kj00021473.html',
+            'https://www.pref.toyama.jp/120507/kurashi/soudanshisetsu/madoguchi/kenkouiryou/kj00021473.html',
         },
         /*
         {
@@ -243,11 +243,6 @@ export default Vue.extend({
           divider: true,
         },
         */
-        {
-          title: this.$t('富山県新型コロナウイルス感染症対策本部会議'),
-          link:
-            'https://www.pref.toyama.jp/1205/kurashi/kenkou/iryou/kj00021555.html',
-        },
         {
           title: this.$t('富山県 新型コロナウイルス感染症 支援情報ナビ'),
           link: 'https://tera-chan.com/covid19-toyama/supportnavi/',

@@ -41,7 +41,7 @@
         <div>
           <app-link
             :class="$style.button"
-            to="https://www.pref.toyama.jp/1205/kurashi/kenkou/kenkou/covid-19/kj00022038.html"
+            to="https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00022038.html"
           >
             {{ $t('感染拡大防止措置の強化・緩和について') }}
           </app-link>

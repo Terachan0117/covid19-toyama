@@ -2,7 +2,7 @@
   <v-col cols="12" md="6">
     <lazy-static-info
       class="Consultation"
-      url="https://www.pref.toyama.jp/1205/kurashi/soudanshisetsu/madoguchi/kenkouiryou/kj00021473.html"
+      url="https://www.pref.toyama.jp/120507/kurashi/soudanshisetsu/madoguchi/kenkouiryou/kj00021473.html"
       :text="$t('自分や家族の症状に不安や心配があればまずは電話相談をどうぞ')"
       :btn-text="$t('相談の手順を見る')"
     />
