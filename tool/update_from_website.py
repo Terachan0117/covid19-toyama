@@ -84,7 +84,7 @@ soup = BeautifulSoup(r.content, "html.parser")
 # 検査陽性者の状況
 summary = soup.find("div", id="tmp_contents").get_text(strip=True)
 # 陽性患者数
-total = int(mojimoji.zen_to_han(re.search(r"(\d+?)人", summary).group(1)))
+total = int(mojimoji.zen_to_han(re.search(r"累計(\d+?)人", summary).group(1)))
 # 入院中・入院等調整中
 hospitalized = int(mojimoji.zen_to_han(
     re.search(r"入院中又は入院等調整中(.+?)人", summary).group(1)))
@@ -102,7 +102,7 @@ discharged = int(mojimoji.zen_to_han(re.search(r"退院等(.+?)人", summary).gr
 # 公表日別による新規陽性者数の推移
 with open('../data/patients_summary.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
-    old_patients = data.value
+    old_patients = data["value"]
     with open('../data/patients_number.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
         data["date"] = dt_now
