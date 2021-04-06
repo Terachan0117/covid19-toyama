@@ -20,7 +20,7 @@ soup = BeautifulSoup(r.content, "html.parser")
 
 # 一覧エクセルを取得
 file_list = soup.find("div", id="tmp_contents")
-link = file_list.find("a").get("href")
+link = file_list.find("a",text=re.compile('^強化・緩和の判断指標（直近1週間平均）の推移（エクセル')).get("href")
 df = pd.read_excel('https://www.pref.toyama.jp' + link, header=None, index_col=None, engine="openpyxl")
 
 # データ部分のみ取り出し
@@ -147,7 +147,7 @@ with open('../data/patients_summary.json', 'w', encoding='utf-8') as file:
 
 # 一覧エクセルを取得
 file_list = soup.find("div", id="tmp_contents")
-link = file_list.find("a").get("href")
+link = file_list.find("a",text=re.compile('^富山県内における新型コロナウイルス感染症の発生状況一覧（Excelファイル）（エクセル')).get("href")
 df = pd.read_excel('https://www.pref.toyama.jp' + link, skiprows=2, engine="openpyxl")
 
 # エクセル内データを定義書準拠形式に変換
