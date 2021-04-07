@@ -5,7 +5,6 @@
     </page-header>
     <v-row class="DataBlock">
       <patients-attribute-card />
-      <patients-by-municipalities-card />
       <tested-number-card />
       <consultation-number-card />
       <center-consultation-number-card />
@@ -19,8 +18,6 @@ import Vue from 'vue'
 const PageHeader = () => import('@/components/PageHeader.vue')
 // 陽性患者の属性
 const PatientsAttributeCard = () => import('@/components/cards/PatientsAttributeCard.vue')
-// 陽性者数（市町村別）
-const PatientsByMunicipalitiesCard = () => import('@/components/cards/PatientsByMunicipalitiesCard.vue')
 // 検査実施件数
 const TestedNumberCard = () => import('@/components/cards/TestedNumberCard.vue')
 // 新型コロナウイルス感染症に関する一般相談件数
@@ -33,7 +30,6 @@ export default Vue.extend({
   components: {
     PageHeader,
     PatientsAttributeCard,
-    PatientsByMunicipalitiesCard,
     TestedNumberCard,
     ConsultationNumberCard,
     CenterConsultationNumberCard,
