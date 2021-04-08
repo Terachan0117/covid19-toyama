@@ -1,161 +1,130 @@
 {
-    "date": "2021/04/07 17:28",
+    "date": "2021/04/08 16:53",
     "datasets": {
-        "date": "2021-04-06",
+        "date": "2021-04-07",
         "data": [
             {
-                "area": "富山県",
                 "label": "富山市",
-                "count": 653
+                "count": 657
             },
             {
-                "area": "富山県",
                 "label": "高岡市",
-                "count": 78
+                "count": 79
             },
             {
-                "area": "富山県",
                 "label": "魚津市",
                 "count": 37
             },
             {
-                "area": "富山県",
                 "label": "射水市",
                 "count": 36
             },
             {
-                "area": "富山県",
+                "label": "滑川市",
+                "count": 30
+            },
+            {
                 "label": "立山町",
                 "count": 29
             },
             {
-                "area": "富山県",
-                "label": "滑川市",
-                "count": 29
-            },
-            {
-                "area": "富山県",
                 "label": "黒部市",
                 "count": 17
             },
             {
-                "area": "富山県",
                 "label": "南砺市",
                 "count": 16
             },
             {
-                "area": "富山県外",
                 "label": "東京都",
                 "count": 15
             },
             {
-                "area": "富山県",
                 "label": "砺波市",
                 "count": 14
             },
             {
-                "area": "富山県",
                 "label": "上市町",
                 "count": 11
             },
             {
-                "area": "富山県",
                 "label": "氷見市",
                 "count": 11
             },
             {
-                "area": "富山県",
                 "label": "朝日町",
                 "count": 10
             },
             {
-                "area": "富山県",
                 "label": "小矢部市",
-                "count": 6
+                "count": 7
             },
             {
-                "area": "富山県外",
                 "label": "富山県内",
                 "count": 6
             },
             {
-                "area": "富山県",
                 "label": "入善町",
                 "count": 5
             },
             {
-                "area": "富山県外",
                 "label": "神奈川県",
                 "count": 4
             },
             {
-                "area": "富山県外",
-                "label": "愛知県",
-                "count": 2
-            },
-            {
-                "area": "富山県",
                 "label": "舟橋村",
                 "count": 2
             },
             {
-                "area": "富山県外",
                 "label": "京都府",
                 "count": 2
             },
             {
-                "area": "富山県外",
-                "label": "埼玉県",
-                "count": 1
+                "label": "愛知県",
+                "count": 2
             },
             {
-                "area": "富山県外",
-                "label": "兵庫県",
-                "count": 1
-            },
-            {
-                "area": "富山県外",
                 "label": "新潟県",
                 "count": 1
             },
             {
-                "area": "富山県外",
-                "label": "福岡県",
-                "count": 1
-            },
-            {
-                "area": "富山県外",
-                "label": "石川県",
-                "count": 1
-            },
-            {
-                "area": "富山県外",
-                "label": "長野県",
-                "count": 1
-            },
-            {
-                "area": "富山県外",
                 "label": "熊本県",
                 "count": 1
             },
             {
-                "area": "富山県外",
-                "label": "山形県",
+                "label": "石川県",
                 "count": 1
             },
             {
-                "area": "富山県外",
+                "label": "大阪府",
+                "count": 1
+            },
+            {
                 "label": "福井県",
                 "count": 1
             },
             {
-                "area": "富山県外",
                 "label": "金沢市",
                 "count": 1
             },
             {
-                "area": "富山県外",
-                "label": "大阪府",
+                "label": "福岡県",
+                "count": 1
+            },
+            {
+                "label": "山形県",
+                "count": 1
+            },
+            {
+                "label": "兵庫県",
+                "count": 1
+            },
+            {
+                "label": "埼玉県",
+                "count": 1
+            },
+            {
+                "label": "長野県",
                 "count": 1
             }
         ]
