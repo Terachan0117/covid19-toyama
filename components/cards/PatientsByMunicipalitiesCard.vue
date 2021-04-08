@@ -47,7 +47,6 @@ export default {
 
     // ヘッダーを設定
     municipalitiesTable.headers = [
-      { text: this.$t('地域'), value: 'area' },
       { text: this.$t('市町村'), value: 'label' },
       { text: this.$t('陽性者数'), value: 'count', align: 'end' },
     ]
@@ -55,10 +54,9 @@ export default {
     // データを追加
     municipalitiesTable.datasets = datasets.data
       .map((d) => {
-        const area = this.$t(d.area)
         const label = this.$t(d.label)
         const count = countFormatter(d.count)
-        return { area, label, count }
+        return { label, count }
       })
 
     const info = {
