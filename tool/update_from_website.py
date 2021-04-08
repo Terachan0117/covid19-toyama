@@ -178,11 +178,7 @@ with open('../data/patients_attribute.json', 'w', encoding='utf-8') as file:
 # 陽性者数（市町村別）
 data = []
 for label, count in df['居住地'].value_counts().to_dict().items():
-    if label in ["富山市", "高岡市", "魚津市", "氷見市", "滑川市", "黒部市", "砺波市", "小矢部市", "南砺市", "射水市", "舟橋村", "上市町", "立山町", "入善町", "朝日町"]:
-        area = "富山県"
-    else:
-        area = "富山県外"
-    data.append({"area": area, "label": label, "count": count})
+    data.append({"label": label, "count": count})
 with open('../data/patients_by_municipalities.json', 'w', encoding='utf-8') as file:
     data = {"date": dt_now, "datasets": {"date": df.iloc[-1]["日付"],"data": data}}
     json.dump(data, file, ensure_ascii=False, indent=4)
