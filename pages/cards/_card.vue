@@ -24,6 +24,8 @@ import MonitoringPositiveRateCard from '@/components/cards/MonitoringPositiveRat
 // ---- その他 参考指標
 // 陽性患者の属性
 import PatientsAttributeCard from '@/components/cards/PatientsAttributeCard.vue'
+// 陽性者数（市町村別）
+import PatientsByMunicipalitiesCard from '@/components/cards/PatientsByMunicipalitiesCard.vue'
 // 検査実施件数
 import TestedNumberCard from '@/components/cards/TestedNumberCard.vue'
 // 新型コロナウイルス感染症に関する一般相談件数
@@ -51,6 +53,7 @@ import { convertDateToSimpleFormat } from '@/utils/formatDate'
     MonitoringPositiveRateCard,
     // ---- その他 参考指標
     PatientsAttributeCard,
+    PatientsByMunicipalitiesCard,
     TestedNumberCard,
     ConsultationNumberCard,
     CenterConsultationNumberCard,
@@ -101,6 +104,10 @@ export default class CardContainer extends Vue implements NuxtConfig {
         cardComponent = 'patients-attribute-card'
         break
       */
+      // 陽性者数（市町村別）
+      case 'patients-by-municipalities':
+        cardComponent = 'patients-by-municipalities-card'
+        break
       // 検査実施件数
       case 'tested-number':
         cardComponent = 'tested-number-card'
