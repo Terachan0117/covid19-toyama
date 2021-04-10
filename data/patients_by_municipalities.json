@@ -1,11 +1,11 @@
 {
-    "date": "2021/04/09 17:08",
+    "date": "2021/04/10 18:05",
     "datasets": {
         "date": "2021-04-08",
         "data": [
             {
                 "label": "富山市",
-                "count": 669
+                "count": 668
             },
             {
                 "label": "高岡市",
@@ -13,7 +13,7 @@
             },
             {
                 "label": "射水市",
-                "count": 37
+                "count": 38
             },
             {
                 "label": "魚津市",
@@ -84,19 +84,11 @@
                 "count": 2
             },
             {
-                "label": "山形県",
+                "label": "兵庫県",
                 "count": 1
             },
             {
-                "label": "福岡県",
-                "count": 1
-            },
-            {
-                "label": "大阪府",
-                "count": 1
-            },
-            {
-                "label": "埼玉県",
+                "label": "新潟県",
                 "count": 1
             },
             {
@@ -104,15 +96,20 @@
                 "count": 1
             },
             {
-                "label": "熊本県",
-                "count": 1
-            },
-            {
-                "label": "金沢市",
-                "count": 1
-            },
-            {
                 "label": "石川県",
+                "count": 1
+            },
+            {
+                "label": "埼玉県",
+                "count": 1
+            },
+            {
+                "label": "山形県",
+                "count": 1
+            },
+            {
+                "label": "福岡県",
+
                 "count": 1
             },
             {
@@ -120,11 +117,15 @@
                 "count": 1
             },
             {
-                "label": "兵庫県",
+                "label": "熊本県",
                 "count": 1
             },
             {
-                "label": "新潟県",
+                "label": "大阪府",
+                "count": 1
+            },
+            {
+                "label": "金沢市",
                 "count": 1
             }
         ]
