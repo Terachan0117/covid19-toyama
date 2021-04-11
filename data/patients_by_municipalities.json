@@ -1,5 +1,5 @@
 {
-    "date": "2021/04/10 18:05",
+    "date": "2021/04/11 16:47",
     "datasets": {
         "date": "2021-04-08",
         "data": [
@@ -72,32 +72,16 @@
                 "count": 4
             },
             {
+                "label": "京都府",
+                "count": 2
+            },
+            {
                 "label": "舟橋村",
                 "count": 2
             },
             {
                 "label": "愛知県",
                 "count": 2
-            },
-            {
-                "label": "京都府",
-                "count": 2
-            },
-            {
-                "label": "兵庫県",
-                "count": 1
-            },
-            {
-                "label": "新潟県",
-                "count": 1
-            },
-            {
-                "label": "長野県",
-                "count": 1
-            },
-            {
-                "label": "石川県",
-                "count": 1
             },
             {
                 "label": "埼玉県",
@@ -108,11 +92,7 @@
                 "count": 1
             },
             {
-                "label": "福岡県",
-                "count": 1
-            },
-            {
-                "label": "福井県",
+                "label": "金沢市",
                 "count": 1
             },
             {
@@ -120,11 +100,31 @@
                 "count": 1
             },
             {
+                "label": "新潟県",
+                "count": 1
+            },
+            {
+                "label": "石川県",
+                "count": 1
+            },
+            {
+                "label": "兵庫県",
+                "count": 1
+            },
+            {
                 "label": "大阪府",
                 "count": 1
             },
             {
-                "label": "金沢市",
+                "label": "長野県",
+                "count": 1
+            },
+            {
+                "label": "福井県",
+                "count": 1
+            },
+            {
+                "label": "福岡県",
                 "count": 1
             }
         ]
