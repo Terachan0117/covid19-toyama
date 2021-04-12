@@ -1,19 +1,19 @@
 {
-    "date": "2021/04/11 16:47",
+    "date": "2021/04/12 17:32",
     "datasets": {
-        "date": "2021-04-08",
+        "date": "2021-04-11",
         "data": [
             {
                 "label": "富山市",
-                "count": 668
+                "count": 689
             },
             {
                 "label": "高岡市",
-                "count": 81
+                "count": 84
             },
             {
                 "label": "射水市",
-                "count": 38
+                "count": 40
             },
             {
                 "label": "魚津市",
@@ -21,7 +21,7 @@
             },
             {
                 "label": "滑川市",
-                "count": 31
+                "count": 32
             },
             {
                 "label": "立山町",
@@ -36,16 +36,16 @@
                 "count": 16
             },
             {
+                "label": "砺波市",
+                "count": 15
+            },
+            {
                 "label": "東京都",
                 "count": 15
             },
             {
-                "label": "砺波市",
-                "count": 14
-            },
-            {
                 "label": "氷見市",
-                "count": 11
+                "count": 14
             },
             {
                 "label": "上市町",
@@ -60,12 +60,12 @@
                 "count": 7
             },
             {
-                "label": "富山県内",
-                "count": 6
+                "label": "入善町",
+                "count": 7
             },
             {
-                "label": "入善町",
-                "count": 5
+                "label": "富山県内",
+                "count": 6
             },
             {
                 "label": "神奈川県",
@@ -76,19 +76,15 @@
                 "count": 2
             },
             {
-                "label": "舟橋村",
-                "count": 2
-            },
-            {
                 "label": "愛知県",
                 "count": 2
             },
             {
-                "label": "埼玉県",
-                "count": 1
+                "label": "舟橋村",
+                "count": 2
             },
             {
-                "label": "山形県",
+                "label": "熊本県",
                 "count": 1
             },
             {
@@ -96,15 +92,7 @@
                 "count": 1
             },
             {
-                "label": "熊本県",
-                "count": 1
-            },
-            {
-                "label": "新潟県",
-                "count": 1
-            },
-            {
-                "label": "石川県",
+                "label": "福井県",
                 "count": 1
             },
             {
@@ -112,7 +100,23 @@
                 "count": 1
             },
             {
+                "label": "福岡県",
+                "count": 1
+            },
+            {
                 "label": "大阪府",
+                "count": 1
+            },
+            {
+                "label": "石川県",
+                "count": 1
+            },
+            {
+                "label": "新潟県",
+                "count": 1
+            },
+            {
+                "label": "埼玉県",
                 "count": 1
             },
             {
@@ -120,11 +124,7 @@
                 "count": 1
             },
             {
-                "label": "福井県",
-                "count": 1
-            },
-            {
-                "label": "福岡県",
+                "label": "山形県",
                 "count": 1
             }
         ]
