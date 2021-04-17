@@ -1,25 +1,25 @@
 {
-    "date": "2021/04/16 19:13",
+    "date": "2021/04/17 18:03",
     "attr": "陽性者数",
-    "value": 1100,
+    "value": 1120,
     "children": [
         {
             "attr": "入院",
-            "value": 70,
+            "value": 74,
             "children": [
                 {
                     "attr": "軽症・中等症",
-                    "value": 68
+                    "value": 73
                 },
                 {
                     "attr": "重症",
-                    "value": 2
+                    "value": 1
                 }
             ]
         },
         {
             "attr": "宿泊療養",
-            "value": 49
+            "value": 52
         },
         {
             "attr": "死亡",
@@ -27,7 +27,7 @@
         },
         {
             "attr": "退院等",
-            "value": 952
+            "value": 965
         }
     ]
 }
