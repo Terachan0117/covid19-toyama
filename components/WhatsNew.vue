@@ -8,6 +8,7 @@
         {{ $t('最新のお知らせ') }}
       </h3>
       <div class="WhatsNew-linkGroup">
+        <active-tokyo-alert />
         <lazy-link-to-information-about-emergency-measure v-if="isEmergency" />
         <app-link
           class="WhatsNew-linkButton"
@@ -46,16 +47,6 @@
         <a href="https://line.me/R/ti/p/%40925tfblm" target="_blank" rel="noopener noreferrer" class="WhatsNew-list-item-anchor ExternalLink">
           <span class="WhatsNew-list-item-anchor-link">
             {{ $t('LINEアカウント-富山県新型コロナ対策パーソナルサポート') }}
-          </span>
-          <span aria-label="別タブで開く" role="img" class="v-icon notranslate ExternalLinkIcon theme--light" style="font-size:1.2rem;height:1.2rem;width:1.2rem">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg" style="font-size:1.2rem;height:1.2rem;width:1.2rem"><path d="M14,3V5H17.59L7.76,14.83L9.17,16.24L19,6.41V10H21V3M19,19H5V5H12V3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V12H19V19Z"></path></svg>
-          </span>
-        </a>
-      </li>
-      <li class="WhatsNew-list-item">
-        <a href="https://tera-chan.com/covid19-toyama/supportnavi/" target="_blank" rel="noopener noreferrer" class="WhatsNew-list-item-anchor ExternalLink">
-          <span class="WhatsNew-list-item-anchor-link">
-            {{ $t('富山県 新型コロナウイルス感染症 支援情報ナビ') }}
           </span>
           <span aria-label="別タブで開く" role="img" class="v-icon notranslate ExternalLinkIcon theme--light" style="font-size:1.2rem;height:1.2rem;width:1.2rem">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg" style="font-size:1.2rem;height:1.2rem;width:1.2rem"><path d="M14,3V5H17.59L7.76,14.83L9.17,16.24L19,6.41V10H21V3M19,19H5V5H12V3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V12H19V19Z"></path></svg>
