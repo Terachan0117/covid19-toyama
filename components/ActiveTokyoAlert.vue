@@ -1,5 +1,5 @@
 <template>
-  <span :class="$style.linkButton">
+  <span :class="$style.linkButton-alert">
     <app-link
       :class="$style.textLink"
       to="https://www.pref.toyama.jp/120507/kurashi/seikatsu/seikatsueisei/toyamaalert0414.html"
@@ -26,8 +26,8 @@ export default Vue.extend({
 })
 </script>
 
-<style lang="scss" module>
-.linkButton {
+<style lang="scss">
+.linkButton-alert {
   background-color: $alert;
   border: 2px solid $alert;
   color: $white;
