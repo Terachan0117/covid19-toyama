@@ -2,11 +2,11 @@
   <span :class="$style.linkButton">
     <app-link
       :class="$style.textLink"
-      to="https://www.bousai.metro.tokyo.lg.jp/1007942/1008167.html"
+      to="https://www.pref.toyama.jp/120507/kurashi/seikatsu/seikatsueisei/toyamaalert0414.html"
     >
       <antenna-icon aria-hidden="true" :class="$style.svgIcon" />
       <span :class="$style.text">
-        {{ $t('東京アラート発動中') }}
+        {{ $t('富山アラート発出中') }}
       </span>
     </app-link>
   </span>
@@ -35,7 +35,6 @@ export default Vue.extend({
   padding: 4px 8px;
   margin-right: 8px;
   display: inline-flex;
-  font-weight: 600;
   @include font-size(14);
 
   .svgIcon path {
@@ -69,7 +68,7 @@ export default Vue.extend({
   }
 
   @include lessThan($medium) {
-    margin-top: 8px;
+    margin: 8px 0;
   }
 }
 </style>
