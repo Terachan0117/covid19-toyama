@@ -8,7 +8,6 @@
         {{ $t('最新のお知らせ') }}
       </h3>
       <div class="WhatsNew-linkGroup">
-        <active-tokyo-alert />
         <lazy-link-to-information-about-emergency-measure v-if="isEmergency" />
         <app-link
           class="WhatsNew-linkButton"
