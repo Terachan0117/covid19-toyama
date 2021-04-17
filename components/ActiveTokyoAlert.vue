@@ -1,5 +1,5 @@
 <template>
-  <span :class="$style.linkButton-alert">
+  <span :class="$style.linkButtonAlert">
     <app-link
       :class="$style.textLink"
       to="https://www.pref.toyama.jp/120507/kurashi/seikatsu/seikatsueisei/toyamaalert0414.html"
@@ -27,7 +27,7 @@ export default Vue.extend({
 </script>
 
 <style lang="scss">
-.linkButton-alert {
+.linkButtonAlert {
   background-color: $alert;
   border: 2px solid $alert;
   color: $white;
@@ -35,7 +35,6 @@ export default Vue.extend({
   padding: 4px 8px;
   margin-right: 8px;
   display: inline-flex;
-  font-weight: 600;
   @include font-size(14);
 
   .svgIcon path {
