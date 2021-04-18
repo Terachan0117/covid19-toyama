@@ -1,5 +1,5 @@
 {
-    "date": "2021/04/17 18:03",
+    "date": "2021/04/18 17:35",
     "datasets": {
         "date": "2021-04-15",
         "data": [
@@ -36,11 +36,11 @@
                 "count": 18
             },
             {
-                "label": "東京都",
+                "label": "砺波市",
                 "count": 15
             },
             {
-                "label": "砺波市",
+                "label": "東京都",
                 "count": 15
             },
             {
@@ -76,39 +76,15 @@
                 "count": 2
             },
             {
-                "label": "京都府",
-                "count": 2
-            },
-            {
                 "label": "舟橋村",
                 "count": 2
             },
             {
-                "label": "石川県",
-                "count": 1
+                "label": "京都府",
+                "count": 2
             },
             {
-                "label": "熊本県",
-                "count": 1
-            },
-            {
-                "label": "山形県",
-                "count": 1
-            },
-            {
-                "label": "金沢市",
-                "count": 1
-            },
-            {
-                "label": "福井県",
-                "count": 1
-            },
-            {
-                "label": "兵庫県",
-                "count": 1
-            },
-            {
-                "label": "埼玉県",
+                "label": "長野県",
                 "count": 1
             },
             {
@@ -116,15 +92,39 @@
                 "count": 1
             },
             {
-                "label": "福岡県",
-                "count": 1
-            },
-            {
-                "label": "長野県",
+                "label": "熊本県",
                 "count": 1
             },
             {
                 "label": "新潟県",
+                "count": 1
+            },
+            {
+                "label": "福岡県",
+                "count": 1
+            },
+            {
+                "label": "石川県",
+                "count": 1
+            },
+            {
+                "label": "金沢市",
+                "count": 1
+            },
+            {
+                "label": "山形県",
+                "count": 1
+            },
+            {
+                "label": "福井県",
+                "count": 1
+            },
+            {
+                "label": "埼玉県",
+                "count": 1
+            },
+            {
+                "label": "兵庫県",
                 "count": 1
             }
         ]
