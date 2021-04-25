@@ -1,5 +1,5 @@
 {
-    "date": "2021/04/24 17:45",
+    "date": "2021/04/25 19:39",
     "datasets": {
         "date": "2021-04-22",
         "data": [
@@ -76,31 +76,19 @@
                 "count": 4
             },
             {
-                "label": "愛知県",
-                "count": 2
-            },
-            {
                 "label": "京都府",
                 "count": 2
             },
             {
-                "label": "金沢市",
-                "count": 1
+                "label": "愛知県",
+                "count": 2
             },
             {
                 "label": "山形県",
                 "count": 1
             },
             {
-                "label": "福井県",
-                "count": 1
-            },
-            {
-                "label": "長野県",
-                "count": 1
-            },
-            {
-                "label": "福岡県",
+                "label": "金沢市",
                 "count": 1
             },
             {
@@ -108,15 +96,11 @@
                 "count": 1
             },
             {
-                "label": "石川県",
+                "label": "福井県",
                 "count": 1
             },
             {
-                "label": "兵庫県",
-                "count": 1
-            },
-            {
-                "label": "大阪府",
+                "label": "埼玉県",
                 "count": 1
             },
             {
@@ -124,7 +108,23 @@
                 "count": 1
             },
             {
-                "label": "埼玉県",
+                "label": "大阪府",
+                "count": 1
+            },
+            {
+                "label": "石川県",
+                "count": 1
+            },
+            {
+                "label": "福岡県",
+                "count": 1
+            },
+            {
+                "label": "長野県",
+                "count": 1
+            },
+            {
+                "label": "兵庫県",
                 "count": 1
             }
         ]
