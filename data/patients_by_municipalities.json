@@ -1,47 +1,47 @@
 {
-    "date": "2021/04/25 19:39",
+    "date": "2021/04/26 19:39",
     "datasets": {
-        "date": "2021-04-22",
+        "date": "2021-04-25",
         "data": [
             {
                 "label": "富山市",
-                "count": 805
+                "count": 825
             },
             {
                 "label": "高岡市",
-                "count": 91
+                "count": 95
             },
             {
                 "label": "射水市",
-                "count": 49
+                "count": 50
             },
             {
                 "label": "魚津市",
-                "count": 39
+                "count": 41
             },
             {
                 "label": "滑川市",
                 "count": 39
             },
             {
-                "label": "立山町",
-                "count": 30
-            },
-            {
                 "label": "上市町",
-                "count": 30
+                "count": 31
             },
             {
-                "label": "黒部市",
-                "count": 21
+                "label": "立山町",
+                "count": 31
             },
             {
                 "label": "氷見市",
-                "count": 21
+                "count": 23
+            },
+            {
+                "label": "黒部市",
+                "count": 22
             },
             {
                 "label": "南砺市",
-                "count": 19
+                "count": 20
             },
             {
                 "label": "砺波市",
@@ -56,20 +56,20 @@
                 "count": 10
             },
             {
-                "label": "入善町",
-                "count": 7
-            },
-            {
                 "label": "小矢部市",
                 "count": 7
             },
             {
-                "label": "富山県内",
-                "count": 6
+                "label": "入善町",
+                "count": 7
             },
             {
                 "label": "舟橋村",
-                "count": 5
+                "count": 6
+            },
+            {
+                "label": "富山県内",
+                "count": 6
             },
             {
                 "label": "神奈川県",
@@ -84,23 +84,7 @@
                 "count": 2
             },
             {
-                "label": "山形県",
-                "count": 1
-            },
-            {
-                "label": "金沢市",
-                "count": 1
-            },
-            {
-                "label": "熊本県",
-                "count": 1
-            },
-            {
-                "label": "福井県",
-                "count": 1
-            },
-            {
-                "label": "埼玉県",
+                "label": "長野県",
                 "count": 1
             },
             {
@@ -108,11 +92,27 @@
                 "count": 1
             },
             {
+                "label": "石川県",
+                "count": 1
+            },
+            {
+                "label": "金沢市",
+                "count": 1
+            },
+            {
+                "label": "山形県",
+                "count": 1
+            },
+            {
                 "label": "大阪府",
                 "count": 1
             },
             {
-                "label": "石川県",
+                "label": "兵庫県",
+                "count": 1
+            },
+            {
+                "label": "福井県",
                 "count": 1
             },
             {
@@ -120,11 +120,11 @@
                 "count": 1
             },
             {
-                "label": "長野県",
+                "label": "埼玉県",
                 "count": 1
             },
             {
-                "label": "兵庫県",
+                "label": "熊本県",
                 "count": 1
             }
         ]
