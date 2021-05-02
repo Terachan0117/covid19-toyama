@@ -1,5 +1,5 @@
 {
-    "date": "2021/05/01 17:19",
+    "date": "2021/05/02 20:18",
     "datasets": {
         "date": "2021-04-29",
         "data": [
@@ -60,11 +60,11 @@
                 "count": 7
             },
             {
-                "label": "入善町",
+                "label": "小矢部市",
                 "count": 7
             },
             {
-                "label": "小矢部市",
+                "label": "入善町",
                 "count": 7
             },
             {
@@ -88,7 +88,7 @@
                 "count": 2
             },
             {
-                "label": "長野県",
+                "label": "福岡県",
                 "count": 1
             },
             {
@@ -100,23 +100,7 @@
                 "count": 1
             },
             {
-                "label": "山形県",
-                "count": 1
-            },
-            {
-                "label": "福岡県",
-                "count": 1
-            },
-            {
-                "label": "福井県",
-                "count": 1
-            },
-            {
-                "label": "熊本県",
-                "count": 1
-            },
-            {
-                "label": "新潟県",
+                "label": "岐阜県",
                 "count": 1
             },
             {
@@ -124,11 +108,27 @@
                 "count": 1
             },
             {
-                "label": "埼玉県",
+                "label": "福井県",
                 "count": 1
             },
             {
-                "label": "岐阜県",
+                "label": "新潟県",
+                "count": 1
+            },
+            {
+                "label": "長野県",
+                "count": 1
+            },
+            {
+                "label": "山形県",
+                "count": 1
+            },
+            {
+                "label": "熊本県",
+                "count": 1
+            },
+            {
+                "label": "埼玉県",
                 "count": 1
             }
         ]
