@@ -1,5 +1,5 @@
 {
-    "date": "2021/05/02 20:18",
+    "date": "2021/05/03 16:19",
     "datasets": {
         "date": "2021-04-29",
         "data": [
@@ -56,15 +56,15 @@
                 "count": 10
             },
             {
+                "label": "入善町",
+                "count": 7
+            },
+            {
                 "label": "舟橋村",
                 "count": 7
             },
             {
                 "label": "小矢部市",
-                "count": 7
-            },
-            {
-                "label": "入善町",
                 "count": 7
             },
             {
@@ -88,35 +88,7 @@
                 "count": 2
             },
             {
-                "label": "福岡県",
-                "count": 1
-            },
-            {
                 "label": "兵庫県",
-                "count": 1
-            },
-            {
-                "label": "金沢市",
-                "count": 1
-            },
-            {
-                "label": "岐阜県",
-                "count": 1
-            },
-            {
-                "label": "石川県",
-                "count": 1
-            },
-            {
-                "label": "福井県",
-                "count": 1
-            },
-            {
-                "label": "新潟県",
-                "count": 1
-            },
-            {
-                "label": "長野県",
                 "count": 1
             },
             {
@@ -124,7 +96,35 @@
                 "count": 1
             },
             {
+                "label": "長野県",
+                "count": 1
+            },
+            {
                 "label": "熊本県",
+                "count": 1
+            },
+            {
+                "label": "福岡県",
+                "count": 1
+            },
+            {
+                "label": "金沢市",
+                "count": 1
+            },
+            {
+                "label": "福井県",
+                "count": 1
+            },
+            {
+                "label": "石川県",
+                "count": 1
+            },
+            {
+                "label": "岐阜県",
+                "count": 1
+            },
+            {
+                "label": "新潟県",
                 "count": 1
             },
             {
