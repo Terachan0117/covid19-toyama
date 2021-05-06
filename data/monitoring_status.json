@@ -1,5 +1,5 @@
 {
-    "date": "2021/05/05 16:10",
+    "date": "2021/05/06 16:25",
     "data": [
         {
             "date": "2020-05-12",
@@ -2824,6 +2824,54 @@
             "patients_number": 11.9,
             "untracked_patients_number": 4.5,
             "positive_rate": 5.1
+        },
+        {
+            "date": "2021-04-30",
+            "hospitalized_number": 74.6,
+            "severe_bed_occupancy_rate": 16.7,
+            "patients_number": 12.5,
+            "untracked_patients_number": 4.7,
+            "positive_rate": 5.2
+        },
+        {
+            "date": "2021-05-01",
+            "hospitalized_number": 76.7,
+            "severe_bed_occupancy_rate": 17.5,
+            "patients_number": 13.6,
+            "untracked_patients_number": 5.1,
+            "positive_rate": 8.5
+        },
+        {
+            "date": "2021-05-02",
+            "hospitalized_number": 78.7,
+            "severe_bed_occupancy_rate": 18.7,
+            "patients_number": 13.8,
+            "untracked_patients_number": 5.2,
+            "positive_rate": 8.9
+        },
+        {
+            "date": "2021-05-03",
+            "hospitalized_number": 79.9,
+            "severe_bed_occupancy_rate": 19,
+            "patients_number": 12.7,
+            "untracked_patients_number": 5.2,
+            "positive_rate": 10.3
+        },
+        {
+            "date": "2021-05-04",
+            "hospitalized_number": 80.4,
+            "severe_bed_occupancy_rate": 19.4,
+            "patients_number": 11.9,
+            "untracked_patients_number": 4.7,
+            "positive_rate": 13.4
+        },
+        {
+            "date": "2021-05-05",
+            "hospitalized_number": 80.7,
+            "severe_bed_occupancy_rate": 20.2,
+            "patients_number": 9.8,
+            "untracked_patients_number": 3.4,
+            "positive_rate": 16.8
         }
     ]
 }
