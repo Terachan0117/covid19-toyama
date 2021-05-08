@@ -1,5 +1,5 @@
 {
-    "date": "2021/05/07 17:23",
+    "date": "2021/05/08 16:48",
     "datasets": {
         "date": "2021-05-06",
         "data": [
@@ -20,11 +20,11 @@
                 "count": 44
             },
             {
-                "label": "滑川市",
+                "label": "立山町",
                 "count": 40
             },
             {
-                "label": "立山町",
+                "label": "滑川市",
                 "count": 40
             },
             {
@@ -56,11 +56,11 @@
                 "count": 10
             },
             {
-                "label": "舟橋村",
+                "label": "小矢部市",
                 "count": 7
             },
             {
-                "label": "小矢部市",
+                "label": "舟橋村",
                 "count": 7
             },
             {
@@ -80,27 +80,15 @@
                 "count": 4
             },
             {
-                "label": "大阪府",
-                "count": 2
-            },
-            {
                 "label": "愛知県",
                 "count": 2
             },
             {
-                "label": "福井県",
-                "count": 1
+                "label": "大阪府",
+                "count": 2
             },
             {
-                "label": "石川県",
-                "count": 1
-            },
-            {
-                "label": "新潟県",
-                "count": 1
-            },
-            {
-                "label": "福岡県",
+                "label": "金沢市",
                 "count": 1
             },
             {
@@ -108,11 +96,11 @@
                 "count": 1
             },
             {
-                "label": "長野県",
+                "label": "山形県",
                 "count": 1
             },
             {
-                "label": "兵庫県",
+                "label": "新潟県",
                 "count": 1
             },
             {
@@ -120,7 +108,15 @@
                 "count": 1
             },
             {
-                "label": "金沢市",
+                "label": "兵庫県",
+                "count": 1
+            },
+            {
+                "label": "長野県",
+                "count": 1
+            },
+            {
+                "label": "福岡県",
                 "count": 1
             },
             {
@@ -128,7 +124,11 @@
                 "count": 1
             },
             {
-                "label": "山形県",
+                "label": "石川県",
+                "count": 1
+            },
+            {
+                "label": "福井県",
                 "count": 1
             }
         ]
