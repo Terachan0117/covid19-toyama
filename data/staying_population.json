@@ -1,5 +1,5 @@
 {
-    "date": "2021/05/12 16:36",
+    "date": "2021/05/13 16:13",
     "data": {
         "place": {
             "display": {
@@ -7,11 +7,11 @@
                 "@en": "Toyama Sta."
             }
         },
-        "date": "2021-05-11",
+        "date": "2021-05-12",
         "data": [
             {
-                "reference_date": "2021-05-10",
-                "increase_rate": -3.9
+                "reference_date": "2021-05-11",
+                "increase_rate": 2.6
             }
         ]
     }
