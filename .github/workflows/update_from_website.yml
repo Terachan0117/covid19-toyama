@@ -1,6 +1,9 @@
 name: update from website
 
-on: [ workflow_dispatch ]
+on:
+  schedule:
+    - cron:  '15 7 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
