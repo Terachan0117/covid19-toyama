@@ -1,23 +1,23 @@
 {
-    "date": "2021/05/20 16:36",
+    "date": "2021/05/21 16:37",
     "datasets": {
-        "date": "2021-05-19",
+        "date": "2021-05-20",
         "data": [
             {
                 "label": "富山市",
-                "count": 1006
+                "count": 1016
             },
             {
                 "label": "高岡市",
-                "count": 149
+                "count": 162
             },
             {
                 "label": "射水市",
-                "count": 84
+                "count": 86
             },
             {
                 "label": "魚津市",
-                "count": 51
+                "count": 54
             },
             {
                 "label": "滑川市",
@@ -53,7 +53,7 @@
             },
             {
                 "label": "入善町",
-                "count": 11
+                "count": 12
             },
             {
                 "label": "朝日町",
@@ -85,15 +85,11 @@
             },
             {
                 "label": "大阪府",
-                "count": 2
+                "count": 3
             },
             {
                 "label": "石川県",
                 "count": 2
-            },
-            {
-                "label": "福井県",
-                "count": 1
             },
             {
                 "label": "長野県",
@@ -101,6 +97,10 @@
             },
             {
                 "label": "岐阜県",
+                "count": 1
+            },
+            {
+                "label": "埼玉県",
                 "count": 1
             },
             {
@@ -112,15 +112,15 @@
                 "count": 1
             },
             {
-                "label": "埼玉県",
-                "count": 1
-            },
-            {
                 "label": "兵庫県",
                 "count": 1
             },
             {
                 "label": "金沢市",
+                "count": 1
+            },
+            {
+                "label": "福井県",
                 "count": 1
             },
             {
