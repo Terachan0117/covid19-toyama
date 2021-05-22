@@ -1,5 +1,5 @@
 {
-    "date": "2021/05/21 16:37",
+    "date": "2021/05/22 16:37",
     "datasets": {
         "date": "2021-05-20",
         "data": [
@@ -72,19 +72,19 @@
                 "count": 6
             },
             {
-                "label": "京都府",
-                "count": 4
-            },
-            {
                 "label": "神奈川県",
                 "count": 4
             },
             {
-                "label": "愛知県",
-                "count": 3
+                "label": "京都府",
+                "count": 4
             },
             {
                 "label": "大阪府",
+                "count": 3
+            },
+            {
+                "label": "愛知県",
                 "count": 3
             },
             {
@@ -92,27 +92,7 @@
                 "count": 2
             },
             {
-                "label": "長野県",
-                "count": 1
-            },
-            {
-                "label": "岐阜県",
-                "count": 1
-            },
-            {
-                "label": "埼玉県",
-                "count": 1
-            },
-            {
-                "label": "山形県",
-                "count": 1
-            },
-            {
-                "label": "福岡県",
-                "count": 1
-            },
-            {
-                "label": "兵庫県",
+                "label": "熊本県",
                 "count": 1
             },
             {
@@ -120,15 +100,35 @@
                 "count": 1
             },
             {
+                "label": "兵庫県",
+                "count": 1
+            },
+            {
+                "label": "埼玉県",
+                "count": 1
+            },
+            {
+                "label": "福岡県",
+                "count": 1
+            },
+            {
                 "label": "福井県",
                 "count": 1
             },
             {
-                "label": "熊本県",
+                "label": "岐阜県",
+                "count": 1
+            },
+            {
+                "label": "山形県",
                 "count": 1
             },
             {
                 "label": "新潟県",
+                "count": 1
+            },
+            {
+                "label": "長野県",
                 "count": 1
             }
         ]
