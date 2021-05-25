@@ -1,23 +1,23 @@
 {
-    "date": "2021/05/24 16:39",
+    "date": "2021/05/25 16:46",
     "datasets": {
-        "date": "2021-05-23",
+        "date": "2021-05-24",
         "data": [
             {
                 "label": "富山市",
-                "count": 1041
+                "count": 1043
             },
             {
                 "label": "高岡市",
-                "count": 173
+                "count": 174
             },
             {
                 "label": "射水市",
-                "count": 144
+                "count": 148
             },
             {
                 "label": "魚津市",
-                "count": 58
+                "count": 61
             },
             {
                 "label": "滑川市",
@@ -37,7 +37,7 @@
             },
             {
                 "label": "黒部市",
-                "count": 30
+                "count": 34
             },
             {
                 "label": "南砺市",
@@ -45,7 +45,7 @@
             },
             {
                 "label": "砺波市",
-                "count": 25
+                "count": 26
             },
             {
                 "label": "東京都",
@@ -72,19 +72,19 @@
                 "count": 6
             },
             {
-                "label": "京都府",
-                "count": 4
-            },
-            {
                 "label": "神奈川県",
                 "count": 4
             },
             {
-                "label": "愛知県",
-                "count": 3
+                "label": "京都府",
+                "count": 4
             },
             {
                 "label": "大阪府",
+                "count": 3
+            },
+            {
+                "label": "愛知県",
                 "count": 3
             },
             {
@@ -92,11 +92,7 @@
                 "count": 2
             },
             {
-                "label": "新潟県",
-                "count": 1
-            },
-            {
-                "label": "金沢市",
+                "label": "長野県",
                 "count": 1
             },
             {
@@ -104,19 +100,7 @@
                 "count": 1
             },
             {
-                "label": "山形県",
-                "count": 1
-            },
-            {
-                "label": "埼玉県",
-                "count": 1
-            },
-            {
-                "label": "長野県",
-                "count": 1
-            },
-            {
-                "label": "福岡県",
+                "label": "金沢市",
                 "count": 1
             },
             {
@@ -124,11 +108,27 @@
                 "count": 1
             },
             {
+                "label": "山形県",
+                "count": 1
+            },
+            {
+                "label": "福岡県",
+                "count": 1
+            },
+            {
                 "label": "熊本県",
                 "count": 1
             },
             {
+                "label": "新潟県",
+                "count": 1
+            },
+            {
                 "label": "福井県",
+                "count": 1
+            },
+            {
+                "label": "埼玉県",
                 "count": 1
             }
         ]
