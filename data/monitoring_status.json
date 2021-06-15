@@ -1,5 +1,5 @@
 {
-    "date": "2021/06/14 16:32",
+    "date": "2021/06/15 16:31",
     "data": [
         {
             "date": "2020-05-12",
@@ -3184,6 +3184,14 @@
             "patients_number": 5,
             "untracked_patients_number": 2.3,
             "positive_rate": 3.6
+        },
+        {
+            "date": "2021-06-14",
+            "hospitalized_number": 58.9,
+            "severe_bed_occupancy_rate": 16.3,
+            "patients_number": 4.4,
+            "untracked_patients_number": 2.5,
+            "positive_rate": 3.8
         }
     ]
 }
