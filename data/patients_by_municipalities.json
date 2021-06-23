@@ -1,11 +1,11 @@
 {
-    "date": "2021/06/22 16:30",
+    "date": "2021/06/23 16:25",
     "datasets": {
-        "date": "2021-06-21",
+        "date": "2021-06-22",
         "data": [
             {
                 "label": "富山市",
-                "count": 1174
+                "count": 1176
             },
             {
                 "label": "高岡市",
@@ -21,15 +21,15 @@
             },
             {
                 "label": "黒部市",
-                "count": 54
+                "count": 57
+            },
+            {
+                "label": "上市町",
+                "count": 52
             },
             {
                 "label": "滑川市",
                 "count": 50
-            },
-            {
-                "label": "上市町",
-                "count": 49
             },
             {
                 "label": "立山町",
@@ -80,11 +80,11 @@
                 "count": 4
             },
             {
-                "label": "愛知県",
+                "label": "大阪府",
                 "count": 3
             },
             {
-                "label": "大阪府",
+                "label": "愛知県",
                 "count": 3
             },
             {
@@ -92,27 +92,7 @@
                 "count": 2
             },
             {
-                "label": "兵庫県",
-                "count": 1
-            },
-            {
-                "label": "熊本県",
-                "count": 1
-            },
-            {
-                "label": "岐阜県",
-                "count": 1
-            },
-            {
-                "label": "金沢市",
-                "count": 1
-            },
-            {
                 "label": "福岡県",
-                "count": 1
-            },
-            {
-                "label": "山形県",
                 "count": 1
             },
             {
@@ -120,15 +100,35 @@
                 "count": 1
             },
             {
-                "label": "長野県",
+                "label": "山形県",
                 "count": 1
             },
             {
-                "label": "新潟県",
+                "label": "兵庫県",
                 "count": 1
             },
             {
                 "label": "埼玉県",
+                "count": 1
+            },
+            {
+                "label": "金沢市",
+                "count": 1
+            },
+            {
+                "label": "熊本県",
+                "count": 1
+            },
+            {
+                "label": "長野県",
+                "count": 1
+            },
+            {
+                "label": "岐阜県",
+                "count": 1
+            },
+            {
+                "label": "新潟県",
                 "count": 1
             }
         ]
