@@ -14,7 +14,7 @@
     </div>
     <whats-new :items="newsItems" :is-emergency="false" />
     <div class="row mt-3">
-      <staying-population />
+      <!--<staying-population />-->
       <consultation />
       <patients-summary-card />
       <patients-number-card />

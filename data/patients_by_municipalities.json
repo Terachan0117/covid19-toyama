@@ -1,11 +1,11 @@
 {
-    "date": "2021/07/07 16:23",
+    "date": "2021/07/08 18:44",
     "datasets": {
-        "date": "2021-07-06",
+        "date": "2021-07-07",
         "data": [
             {
                 "label": "富山市",
-                "count": 1194
+                "count": 1196
             },
             {
                 "label": "高岡市",
@@ -32,12 +32,12 @@
                 "count": 50
             },
             {
-                "label": "立山町",
+                "label": "氷見市",
                 "count": 48
             },
             {
-                "label": "氷見市",
-                "count": 45
+                "label": "立山町",
+                "count": 48
             },
             {
                 "label": "南砺市",
@@ -92,27 +92,7 @@
                 "count": 2
             },
             {
-                "label": "新潟県",
-                "count": 1
-            },
-            {
-                "label": "熊本県",
-                "count": 1
-            },
-            {
-                "label": "福井県",
-                "count": 1
-            },
-            {
-                "label": "埼玉県",
-                "count": 1
-            },
-            {
                 "label": "長野県",
-                "count": 1
-            },
-            {
-                "label": "福岡県",
                 "count": 1
             },
             {
@@ -120,7 +100,11 @@
                 "count": 1
             },
             {
-                "label": "兵庫県",
+                "label": "熊本県",
+                "count": 1
+            },
+            {
+                "label": "埼玉県",
                 "count": 1
             },
             {
@@ -128,7 +112,23 @@
                 "count": 1
             },
             {
+                "label": "兵庫県",
+                "count": 1
+            },
+            {
                 "label": "岐阜県",
+                "count": 1
+            },
+            {
+                "label": "新潟県",
+                "count": 1
+            },
+            {
+                "label": "福井県",
+                "count": 1
+            },
+            {
+                "label": "福岡県",
                 "count": 1
             }
         ]
