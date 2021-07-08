@@ -34,7 +34,6 @@ jobs:
           TZ: Asia/Tokyo
         run: |
           cd development/tool
-          python update_from_docomo.py
           python update_from_website.py
           cd ../..
       - name: Copy data to each branches
