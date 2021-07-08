@@ -1,5 +1,5 @@
 <template>
-  <v-col cols="12" md="6">
+  <v-col cols="12">
     <lazy-static-info
       class="Consultation"
       url="https://www.pref.toyama.jp/120507/kurashi/soudanshisetsu/madoguchi/kenkouiryou/kj00021473.html"
@@ -12,6 +12,5 @@
 <style lang="scss" scoped>
 .Consultation {
   padding: 18px;
-  min-height: 8em;
 }
 </style>
