@@ -1,5 +1,5 @@
 {
-    "date": "2021/07/11 16:23",
+    "date": "2021/07/12 16:23",
     "data": [
         {
             "date": "2020-05-12",
@@ -3384,6 +3384,30 @@
             "patients_number": 2.1,
             "untracked_patients_number": 1,
             "positive_rate": 1.8
+        },
+        {
+            "date": "2021-07-09",
+            "hospitalized_number": 18.9,
+            "severe_bed_occupancy_rate": 2.8,
+            "patients_number": 2.2,
+            "untracked_patients_number": 1.1,
+            "positive_rate": 2.1
+        },
+        {
+            "date": "2021-07-10",
+            "hospitalized_number": 19.9,
+            "severe_bed_occupancy_rate": 3.2,
+            "patients_number": 2.2,
+            "untracked_patients_number": 1,
+            "positive_rate": 2.2
+        },
+        {
+            "date": "2021-07-11",
+            "hospitalized_number": 20.6,
+            "severe_bed_occupancy_rate": 3.6,
+            "patients_number": 1.9,
+            "untracked_patients_number": 0.7,
+            "positive_rate": 1.9
         }
     ]
 }
